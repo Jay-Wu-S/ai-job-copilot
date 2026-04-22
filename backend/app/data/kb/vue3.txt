@@ -1,0 +1,3 @@
+Vue 3 is a frontend framework for building interactive user interfaces.
+It supports component-based development and the Composition API.
+Vue 3 is often used with Element Plus to build dashboards and management systems.

@@ -1,0 +1,1846 @@
+{
+  "skill_categories": {
+    "programming_languages": [
+      "Python",
+      "Java",
+      "C",
+      "C++",
+      "C#",
+      "JavaScript",
+      "TypeScript",
+      "Go",
+      "Rust",
+      "PHP",
+      "Ruby",
+      "Swift",
+      "Kotlin",
+      "R",
+      "MATLAB",
+      "Scala",
+      "Dart",
+      "SQL",
+      "Bash",
+      "Shell",
+      "PowerShell",
+      "Julia",
+      "Perl",
+      "Objective-C",
+      "Lua",
+      "Assembly"
+    ],
+    "frontend": [
+      "HTML",
+      "CSS",
+      "Sass",
+      "Less",
+      "Tailwind CSS",
+      "Bootstrap",
+      "Material UI",
+      "Ant Design",
+      "Element Plus",
+      "Vue",
+      "Vue2",
+      "Vue3",
+      "React",
+      "Next.js",
+      "Angular",
+      "Svelte",
+      "Nuxt.js",
+      "Vite",
+      "Webpack",
+      "Parcel",
+      "jQuery",
+      "Axios",
+      "Fetch API",
+      "Responsive Design",
+      "UI Development",
+      "Web Development",
+      "Frontend Development",
+      "Component Design",
+      "State Management",
+      "Redux",
+      "Pinia",
+      "Vuex"
+    ],
+    "backend": [
+      "FastAPI",
+      "Flask",
+      "Django",
+      "Spring Boot",
+      "Spring",
+      "Node.js",
+      "Express.js",
+      "NestJS",
+      "ASP.NET",
+      "ASP.NET Core",
+      "Laravel",
+      "Ruby on Rails",
+      "Gin",
+      "Echo",
+      "Koa",
+      "REST API",
+      "RESTful API",
+      "GraphQL",
+      "gRPC",
+      "WebSocket",
+      "Microservices",
+      "Backend Development",
+      "API Development",
+      "Authentication",
+      "Authorization",
+      "JWT",
+      "OAuth",
+      "Session Management",
+      "File Upload",
+      "Rate Limiting",
+      "Caching"
+    ],
+    "databases": [
+      "MySQL",
+      "PostgreSQL",
+      "SQLite",
+      "MariaDB",
+      "SQL Server",
+      "Oracle Database",
+      "MongoDB",
+      "Redis",
+      "Elasticsearch",
+      "OpenSearch",
+      "DynamoDB",
+      "Cassandra",
+      "Firebase",
+      "Supabase",
+      "Neo4j",
+      "Database Design",
+      "Database Management",
+      "Database Optimization",
+      "Indexing",
+      "Query Optimization",
+      "ORM",
+      "Prisma",
+      "SQLAlchemy",
+      "Entity Framework",
+      "Mongoose"
+    ],
+    "devops_cloud": [
+      "Docker",
+      "Kubernetes",
+      "Git",
+      "GitHub",
+      "GitLab",
+      "CI/CD",
+      "GitHub Actions",
+      "GitLab CI",
+      "Jenkins",
+      "Linux",
+      "Ubuntu",
+      "Nginx",
+      "Apache",
+      "AWS",
+      "Azure",
+      "Google Cloud",
+      "Alibaba Cloud",
+      "Cloud Computing",
+      "Cloud Deployment",
+      "Terraform",
+      "Ansible",
+      "Shell Scripting",
+      "Bash Scripting",
+      "Monitoring",
+      "Logging",
+      "Prometheus",
+      "Grafana",
+      "Vercel",
+      "Netlify",
+      "DigitalOcean"
+    ],
+    "ai_ml_core": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Deep Learning",
+      "Neural Networks",
+      "Supervised Learning",
+      "Unsupervised Learning",
+      "Reinforcement Learning",
+      "Natural Language Processing",
+      "NLP",
+      "Computer Vision",
+      "Model Training",
+      "Model Evaluation",
+      "Feature Engineering",
+      "Feature Extraction",
+      "Data Preprocessing",
+      "Data Cleaning",
+      "Data Analysis",
+      "Statistical Analysis",
+      "Experiment Design",
+      "Hyperparameter Tuning",
+      "Inference Optimization"
+    ],
+    "ai_ml_frameworks": [
+      "TensorFlow",
+      "Keras",
+      "PyTorch",
+      "Scikit-learn",
+      "XGBoost",
+      "LightGBM",
+      "CatBoost",
+      "OpenCV",
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "Seaborn",
+      "SciPy",
+      "ONNX",
+      "ONNX Runtime",
+      "Hugging Face Transformers",
+      "Transformers",
+      "Sentence Transformers",
+      "spaCy",
+      "NLTK",
+      "OpenMMLab",
+      "Ultralytics",
+      "YOLO",
+      "YOLOv5",
+      "YOLOv8",
+      "YOLOv11"
+    ],
+    "llm_rag_agents": [
+      "Large Language Models",
+      "LLM",
+      "Prompt Engineering",
+      "Prompt Design",
+      "RAG",
+      "Retrieval-Augmented Generation",
+      "Embeddings",
+      "Vector Database",
+      "Vector Search",
+      "Semantic Search",
+      "FAISS",
+      "Chroma",
+      "Pinecone",
+      "Milvus",
+      "Weaviate",
+      "LangChain",
+      "LlamaIndex",
+      "Agent Systems",
+      "AI Agents",
+      "Autogen",
+      "MCP",
+      "Model Context Protocol",
+      "Tool Calling",
+      "Function Calling",
+      "Fine-tuning",
+      "LoRA",
+      "QLoRA",
+      "Model Deployment",
+      "Inference Serving"
+    ],
+    "data_engineering": [
+      "ETL",
+      "ELT",
+      "Data Pipeline",
+      "Data Engineering",
+      "Apache Spark",
+      "Hadoop",
+      "Airflow",
+      "Kafka",
+      "Stream Processing",
+      "Batch Processing",
+      "Data Warehousing",
+      "Data Modeling",
+      "Parquet",
+      "CSV Processing",
+      "JSON Processing"
+    ],
+    "software_engineering": [
+      "Object-Oriented Programming",
+      "OOP",
+      "Design Patterns",
+      "Software Engineering",
+      "System Design",
+      "Distributed Systems",
+      "Concurrency",
+      "Multithreading",
+      "Asynchronous Programming",
+      "AsyncIO",
+      "Testing",
+      "Unit Testing",
+      "Integration Testing",
+      "Functional Testing",
+      "Debugging",
+      "Troubleshooting",
+      "Code Review",
+      "Documentation",
+      "Agile Development",
+      "Scrum",
+      "Refactoring",
+      "Performance Optimization",
+      "Clean Code"
+    ],
+    "cybersecurity_networking": [
+      "Network Security",
+      "Cybersecurity",
+      "Data Communication",
+      "Computer Networks",
+      "TCP/IP",
+      "UDP",
+      "HTTP",
+      "HTTPS",
+      "SSL/TLS",
+      "Encryption",
+      "Firewall",
+      "Penetration Testing",
+      "Secure Coding"
+    ],
+    "embedded_iot_robotics": [
+      "Embedded Systems",
+      "ESP32",
+      "Arduino",
+      "Raspberry Pi",
+      "Microcontrollers",
+      "IoT",
+      "Robotics",
+      "Robotic Arm Control",
+      "Motion Control",
+      "Stepper Motor Control",
+      "Motor Control",
+      "PLC",
+      "Sensor Integration",
+      "Hardware Integration",
+      "Circuit Design",
+      "Serial Communication",
+      "UART",
+      "I2C",
+      "SPI",
+      "MQTT",
+      "UDP Communication",
+      "Computer Vision Integration",
+      "Control Systems",
+      "Real-Time Systems",
+      "Firmware Development"
+    ],
+    "computer_vision_robotics": [
+      "Image Processing",
+      "Object Detection",
+      "Object Tracking",
+      "Face Detection",
+      "Face Tracking",
+      "Pose Estimation",
+      "Visual Servoing",
+      "YOLO Deployment",
+      "OpenCV Integration",
+      "Camera Calibration",
+      "Target Localization",
+      "Robotics Integration",
+      "System Debugging"
+    ],
+    "mobile_desktop": [
+      "Android Development",
+      "iOS Development",
+      "Flutter",
+      "React Native",
+      "Desktop Development",
+      "Tkinter",
+      "PyQt",
+      "Electron"
+    ],
+    "mathematics_statistics": [
+      "Linear Algebra",
+      "Calculus",
+      "Probability",
+      "Statistics",
+      "Applied Statistics",
+      "Discrete Mathematics",
+      "Optimization",
+      "Numerical Methods"
+    ],
+    "domain_experience": [
+      "AI Product Development",
+      "AI Application Development",
+      "Intelligent Applications",
+      "Large Model Deployment",
+      "Model Fine-tuning",
+      "Spam Detection",
+      "Recommendation Systems",
+      "Search Systems",
+      "Chatbot Development",
+      "Resume Parsing",
+      "Skill Matching",
+      "Knowledge Base Q&A",
+      "Data Visualization",
+      "Booking System Development",
+      "E-commerce Development"
+    ],
+    "soft_skills": [
+      "Problem Solving",
+      "Logical Thinking",
+      "Analytical Thinking",
+      "Communication",
+      "Teamwork",
+      "Collaboration",
+      "Learning Ability",
+      "Self-learning",
+      "Time Management",
+      "Attention to Detail",
+      "Ownership",
+      "Resilience",
+      "Documentation Writing"
+    ]
+  },
+  "skill_aliases": {
+    "Python": [
+      "python",
+      "python3"
+    ],
+    "Java": [
+      "java"
+    ],
+    "C": [
+      "c language",
+      "programming in c",
+      "written in c"
+    ],
+    "C++": [
+      "c++",
+      "cpp"
+    ],
+    "C#": [
+      "c#",
+      "csharp",
+      ".net c#"
+    ],
+    "JavaScript": [
+      "javascript",
+      "js"
+    ],
+    "TypeScript": [
+      "typescript",
+      "ts"
+    ],
+    "Go": [
+      "go language",
+      "golang",
+      "programming in go",
+      "written in go"
+    ],
+    "Rust": [
+      "rust"
+    ],
+    "PHP": [
+      "php"
+    ],
+    "Ruby": [
+      "ruby"
+    ],
+    "Swift": [
+      "swift"
+    ],
+    "Kotlin": [
+      "kotlin"
+    ],
+    "R": [
+      "r language",
+      "using r",
+      "programming in r",
+      "written in r"
+    ],
+    "MATLAB": [
+      "matlab"
+    ],
+    "Scala": [
+      "scala"
+    ],
+    "Dart": [
+      "dart"
+    ],
+    "SQL": [
+      "sql",
+      "structured query language"
+    ],
+    "Bash": [
+      "bash"
+    ],
+    "Shell": [
+      "shell",
+      "shell scripting"
+    ],
+    "PowerShell": [
+      "powershell"
+    ],
+    "Julia": [
+      "julia"
+    ],
+    "Perl": [
+      "perl"
+    ],
+    "Objective-C": [
+      "objective-c",
+      "objective c"
+    ],
+    "Lua": [
+      "lua"
+    ],
+    "Assembly": [
+      "assembly",
+      "asm"
+    ],
+    "HTML": [
+      "html",
+      "html5"
+    ],
+    "CSS": [
+      "css",
+      "css3"
+    ],
+    "Sass": [
+      "sass",
+      "scss"
+    ],
+    "Less": [
+      "less css",
+      "less"
+    ],
+    "Tailwind CSS": [
+      "tailwind",
+      "tailwind css"
+    ],
+    "Bootstrap": [
+      "bootstrap"
+    ],
+    "Material UI": [
+      "material ui",
+      "mui"
+    ],
+    "Ant Design": [
+      "ant design",
+      "antd"
+    ],
+    "Element Plus": [
+      "element plus"
+    ],
+    "Vue": [
+      "vue",
+      "vue.js"
+    ],
+    "Vue2": [
+      "vue2",
+      "vue 2"
+    ],
+    "Vue3": [
+      "vue3",
+      "vue 3"
+    ],
+    "React": [
+      "react",
+      "react.js"
+    ],
+    "Next.js": [
+      "next.js",
+      "nextjs"
+    ],
+    "Angular": [
+      "angular"
+    ],
+    "Svelte": [
+      "svelte"
+    ],
+    "Nuxt.js": [
+      "nuxt",
+      "nuxt.js"
+    ],
+    "Vite": [
+      "vite"
+    ],
+    "Webpack": [
+      "webpack"
+    ],
+    "Parcel": [
+      "parcel"
+    ],
+    "jQuery": [
+      "jquery"
+    ],
+    "Axios": [
+      "axios"
+    ],
+    "Fetch API": [
+      "fetch api",
+      "fetch"
+    ],
+    "Responsive Design": [
+      "responsive design",
+      "responsive ui",
+      "responsive web"
+    ],
+    "UI Development": [
+      "ui development",
+      "user interface development"
+    ],
+    "Web Development": [
+      "web development",
+      "website development",
+      "web app development"
+    ],
+    "Frontend Development": [
+      "frontend development",
+      "front-end development",
+      "front end development"
+    ],
+    "Component Design": [
+      "component design",
+      "component-based development"
+    ],
+    "State Management": [
+      "state management"
+    ],
+    "Redux": [
+      "redux"
+    ],
+    "Pinia": [
+      "pinia"
+    ],
+    "Vuex": [
+      "vuex"
+    ],
+    "FastAPI": [
+      "fastapi"
+    ],
+    "Flask": [
+      "flask"
+    ],
+    "Django": [
+      "django"
+    ],
+    "Spring Boot": [
+      "spring boot"
+    ],
+    "Spring": [
+      "spring framework",
+      "spring"
+    ],
+    "Node.js": [
+      "node.js",
+      "nodejs",
+      "node"
+    ],
+    "Express.js": [
+      "express",
+      "express.js"
+    ],
+    "NestJS": [
+      "nestjs",
+      "nest.js"
+    ],
+    "ASP.NET": [
+      "asp.net",
+      "asp net"
+    ],
+    "ASP.NET Core": [
+      "asp.net core",
+      "asp net core"
+    ],
+    "Laravel": [
+      "laravel"
+    ],
+    "Ruby on Rails": [
+      "ruby on rails",
+      "rails"
+    ],
+    "Gin": [
+      "gin framework",
+      "gin-gonic",
+      "gin web framework",
+      "gin web"
+    ],
+    "Echo": [
+      "echo framework",
+      "echo"
+    ],
+    "Koa": [
+      "koa",
+      "koa.js"
+    ],
+    "REST API": [
+      "rest api",
+      "restful api",
+      "api development",
+      "api design",
+      "backend api"
+    ],
+    "GraphQL": [
+      "graphql"
+    ],
+    "gRPC": [
+      "grpc"
+    ],
+    "WebSocket": [
+      "websocket",
+      "web socket"
+    ],
+    "Microservices": [
+      "microservices",
+      "microservice architecture"
+    ],
+    "Backend Development": [
+      "backend development",
+      "back-end development",
+      "back end development",
+      "server-side development"
+    ],
+    "Authentication": [
+      "authentication",
+      "auth"
+    ],
+    "Authorization": [
+      "authorization",
+      "access control"
+    ],
+    "JWT": [
+      "jwt",
+      "json web token"
+    ],
+    "OAuth": [
+      "oauth",
+      "oauth2"
+    ],
+    "Session Management": [
+      "session management"
+    ],
+    "File Upload": [
+      "file upload",
+      "upload handling"
+    ],
+    "Rate Limiting": [
+      "rate limiting"
+    ],
+    "Caching": [
+      "caching",
+      "cache"
+    ],
+    "MySQL": [
+      "mysql"
+    ],
+    "PostgreSQL": [
+      "postgresql",
+      "postgres"
+    ],
+    "SQLite": [
+      "sqlite"
+    ],
+    "MariaDB": [
+      "mariadb"
+    ],
+    "SQL Server": [
+      "sql server",
+      "mssql",
+      "microsoft sql server"
+    ],
+    "Oracle Database": [
+      "oracle database",
+      "oracle db",
+      "oracle"
+    ],
+    "MongoDB": [
+      "mongodb",
+      "mongo db"
+    ],
+    "Redis": [
+      "redis"
+    ],
+    "Elasticsearch": [
+      "elasticsearch",
+      "elastic search"
+    ],
+    "OpenSearch": [
+      "opensearch",
+      "open search"
+    ],
+    "DynamoDB": [
+      "dynamodb"
+    ],
+    "Cassandra": [
+      "cassandra"
+    ],
+    "Firebase": [
+      "firebase"
+    ],
+    "Supabase": [
+      "supabase"
+    ],
+    "Neo4j": [
+      "neo4j"
+    ],
+    "Database Design": [
+      "database design",
+      "db design",
+      "schema design"
+    ],
+    "Database Management": [
+      "database management",
+      "db management"
+    ],
+    "Database Optimization": [
+      "database optimization",
+      "db optimization"
+    ],
+    "Indexing": [
+      "indexing",
+      "database indexing"
+    ],
+    "Query Optimization": [
+      "query optimization",
+      "sql optimization"
+    ],
+    "ORM": [
+      "orm",
+      "object relational mapping"
+    ],
+    "Prisma": [
+      "prisma"
+    ],
+    "SQLAlchemy": [
+      "sqlalchemy"
+    ],
+    "Entity Framework": [
+      "entity framework",
+      "ef core"
+    ],
+    "Mongoose": [
+      "mongoose"
+    ],
+    "Docker": [
+      "docker",
+      "containerization",
+      "containerize"
+    ],
+    "Kubernetes": [
+      "kubernetes",
+      "k8s"
+    ],
+    "Git": [
+      "git",
+      "version control"
+    ],
+    "GitHub": [
+      "github"
+    ],
+    "GitLab": [
+      "gitlab"
+    ],
+    "CI/CD": [
+      "ci/cd",
+      "cicd",
+      "continuous integration",
+      "continuous delivery",
+      "continuous deployment"
+    ],
+    "GitHub Actions": [
+      "github actions"
+    ],
+    "GitLab CI": [
+      "gitlab ci"
+    ],
+    "Jenkins": [
+      "jenkins"
+    ],
+    "Linux": [
+      "linux",
+      "ubuntu",
+      "debian",
+      "centos"
+    ],
+    "Ubuntu": [
+      "ubuntu"
+    ],
+    "Nginx": [
+      "nginx"
+    ],
+    "Apache": [
+      "apache",
+      "apache server",
+      "apache http server"
+    ],
+    "AWS": [
+      "aws",
+      "amazon web services"
+    ],
+    "Azure": [
+      "azure",
+      "microsoft azure"
+    ],
+    "Google Cloud": [
+      "google cloud",
+      "gcp"
+    ],
+    "Alibaba Cloud": [
+      "alibaba cloud",
+      "aliyun"
+    ],
+    "Cloud Computing": [
+      "cloud computing",
+      "cloud services"
+    ],
+    "Cloud Deployment": [
+      "cloud deployment",
+      "cloud hosting"
+    ],
+    "Terraform": [
+      "terraform"
+    ],
+    "Ansible": [
+      "ansible"
+    ],
+    "Shell Scripting": [
+      "shell scripting",
+      "bash scripting"
+    ],
+    "Bash Scripting": [
+      "bash scripting"
+    ],
+    "Monitoring": [
+      "monitoring",
+      "system monitoring"
+    ],
+    "Logging": [
+      "logging",
+      "log analysis"
+    ],
+    "Prometheus": [
+      "prometheus"
+    ],
+    "Grafana": [
+      "grafana"
+    ],
+    "Vercel": [
+      "vercel"
+    ],
+    "Netlify": [
+      "netlify"
+    ],
+    "DigitalOcean": [
+      "digitalocean",
+      "digital ocean"
+    ],
+    "Artificial Intelligence": [
+      "artificial intelligence",
+      "ai"
+    ],
+    "Machine Learning": [
+      "machine learning",
+      "ml"
+    ],
+    "Deep Learning": [
+      "deep learning",
+      "dl"
+    ],
+    "Neural Networks": [
+      "neural networks",
+      "neural network"
+    ],
+    "Supervised Learning": [
+      "supervised learning"
+    ],
+    "Unsupervised Learning": [
+      "unsupervised learning"
+    ],
+    "Reinforcement Learning": [
+      "reinforcement learning",
+      "rl"
+    ],
+    "Natural Language Processing": [
+      "natural language processing",
+      "nlp"
+    ],
+    "NLP": [
+      "nlp"
+    ],
+    "Computer Vision": [
+      "computer vision",
+      "cv vision"
+    ],
+    "Model Training": [
+      "model training",
+      "training models"
+    ],
+    "Model Evaluation": [
+      "model evaluation",
+      "evaluate models"
+    ],
+    "Feature Engineering": [
+      "feature engineering"
+    ],
+    "Feature Extraction": [
+      "feature extraction"
+    ],
+    "Data Preprocessing": [
+      "data preprocessing",
+      "preprocessing"
+    ],
+    "Data Cleaning": [
+      "data cleaning",
+      "cleaning data",
+      "text cleaning"
+    ],
+    "Data Analysis": [
+      "data analysis",
+      "analytical tasks"
+    ],
+    "Statistical Analysis": [
+      "statistical analysis"
+    ],
+    "Experiment Design": [
+      "experiment design",
+      "ab testing",
+      "a/b testing"
+    ],
+    "Hyperparameter Tuning": [
+      "hyperparameter tuning",
+      "parameter tuning"
+    ],
+    "Inference Optimization": [
+      "inference optimization",
+      "model optimization"
+    ],
+    "TensorFlow": [
+      "tensorflow",
+      "tensor flow"
+    ],
+    "Keras": [
+      "keras",
+      "tf.keras"
+    ],
+    "PyTorch": [
+      "pytorch",
+      "torch"
+    ],
+    "Scikit-learn": [
+      "scikit-learn",
+      "sklearn",
+      "scikit learn"
+    ],
+    "XGBoost": [
+      "xgboost"
+    ],
+    "LightGBM": [
+      "lightgbm"
+    ],
+    "CatBoost": [
+      "catboost"
+    ],
+    "OpenCV": [
+      "opencv",
+      "open cv"
+    ],
+    "Pandas": [
+      "pandas"
+    ],
+    "NumPy": [
+      "numpy"
+    ],
+    "Matplotlib": [
+      "matplotlib"
+    ],
+    "Seaborn": [
+      "seaborn"
+    ],
+    "SciPy": [
+      "scipy"
+    ],
+    "ONNX": [
+      "onnx"
+    ],
+    "ONNX Runtime": [
+      "onnx runtime",
+      "onnxruntime"
+    ],
+    "Hugging Face Transformers": [
+      "hugging face transformers",
+      "huggingface transformers",
+      "transformers library"
+    ],
+    "Transformers": [
+      "transformers"
+    ],
+    "Sentence Transformers": [
+      "sentence transformers",
+      "sentence-transformers"
+    ],
+    "spaCy": [
+      "spacy",
+      "spa cy"
+    ],
+    "NLTK": [
+      "nltk"
+    ],
+    "OpenMMLab": [
+      "openmmlab"
+    ],
+    "Ultralytics": [
+      "ultralytics"
+    ],
+    "YOLO": [
+      "yolo",
+      "you only look once"
+    ],
+    "YOLOv5": [
+      "yolov5"
+    ],
+    "YOLOv8": [
+      "yolov8"
+    ],
+    "YOLOv11": [
+      "yolov11"
+    ],
+    "Large Language Models": [
+      "large language models",
+      "llms",
+      "llm"
+    ],
+    "LLM": [
+      "llm",
+      "large language model"
+    ],
+    "Prompt Engineering": [
+      "prompt engineering",
+      "prompt design",
+      "prompting"
+    ],
+    "Prompt Design": [
+      "prompt design"
+    ],
+    "RAG": [
+      "rag",
+      "retrieval augmented generation",
+      "retrieval-augmented generation"
+    ],
+    "Retrieval-Augmented Generation": [
+      "retrieval augmented generation",
+      "retrieval-augmented generation",
+      "rag"
+    ],
+    "Embeddings": [
+      "embeddings",
+      "text embeddings",
+      "vector embeddings"
+    ],
+    "Vector Database": [
+      "vector database",
+      "vector db",
+      "embedding database"
+    ],
+    "Vector Search": [
+      "vector search",
+      "semantic vector search"
+    ],
+    "Semantic Search": [
+      "semantic search"
+    ],
+    "FAISS": [
+      "faiss"
+    ],
+    "Chroma": [
+      "chroma",
+      "chromadb",
+      "chroma db"
+    ],
+    "Pinecone": [
+      "pinecone"
+    ],
+    "Milvus": [
+      "milvus"
+    ],
+    "Weaviate": [
+      "weaviate"
+    ],
+    "LangChain": [
+      "langchain"
+    ],
+    "LlamaIndex": [
+      "llamaindex",
+      "gpt index"
+    ],
+    "Agent Systems": [
+      "agent systems",
+      "agentic systems"
+    ],
+    "AI Agents": [
+      "ai agents",
+      "autonomous agents",
+      "agents"
+    ],
+    "Autogen": [
+      "autogen",
+      "auto gen"
+    ],
+    "MCP": [
+      "mcp",
+      "model context protocol"
+    ],
+    "Model Context Protocol": [
+      "model context protocol",
+      "mcp"
+    ],
+    "Tool Calling": [
+      "tool calling"
+    ],
+    "Function Calling": [
+      "function calling"
+    ],
+    "Fine-tuning": [
+      "fine-tuning",
+      "finetuning",
+      "model fine-tuning"
+    ],
+    "LoRA": [
+      "lora"
+    ],
+    "QLoRA": [
+      "qlora",
+      "q lora"
+    ],
+    "Model Deployment": [
+      "model deployment",
+      "deploy models",
+      "serving models"
+    ],
+    "Inference Serving": [
+      "inference serving",
+      "model serving"
+    ],
+    "ETL": [
+      "etl"
+    ],
+    "ELT": [
+      "elt"
+    ],
+    "Data Pipeline": [
+      "data pipeline",
+      "pipelines",
+      "data workflow"
+    ],
+    "Data Engineering": [
+      "data engineering"
+    ],
+    "Apache Spark": [
+      "apache spark",
+      "spark"
+    ],
+    "Hadoop": [
+      "hadoop"
+    ],
+    "Airflow": [
+      "airflow",
+      "apache airflow"
+    ],
+    "Kafka": [
+      "kafka",
+      "apache kafka"
+    ],
+    "Stream Processing": [
+      "stream processing"
+    ],
+    "Batch Processing": [
+      "batch processing"
+    ],
+    "Data Warehousing": [
+      "data warehousing",
+      "data warehouse"
+    ],
+    "Data Modeling": [
+      "data modeling"
+    ],
+    "Parquet": [
+      "parquet"
+    ],
+    "CSV Processing": [
+      "csv processing"
+    ],
+    "JSON Processing": [
+      "json processing"
+    ],
+    "Object-Oriented Programming": [
+      "object-oriented programming",
+      "oop",
+      "object oriented programming"
+    ],
+    "OOP": [
+      "oop",
+      "object-oriented programming",
+      "object oriented programming"
+    ],
+    "Design Patterns": [
+      "design patterns"
+    ],
+    "Software Engineering": [
+      "software engineering"
+    ],
+    "System Design": [
+      "system design"
+    ],
+    "Distributed Systems": [
+      "distributed systems",
+      "distributed system"
+    ],
+    "Concurrency": [
+      "concurrency",
+      "concurrent programming"
+    ],
+    "Multithreading": [
+      "multithreading",
+      "multi-threading",
+      "threads"
+    ],
+    "Asynchronous Programming": [
+      "asynchronous programming",
+      "async programming",
+      "asyncio"
+    ],
+    "AsyncIO": [
+      "asyncio"
+    ],
+    "Testing": [
+      "software testing",
+      "unit testing",
+      "integration testing",
+      "functional testing",
+      "qa testing",
+      "quality assurance"
+    ],
+    "Unit Testing": [
+      "unit testing"
+    ],
+    "Integration Testing": [
+      "integration testing"
+    ],
+    "Functional Testing": [
+      "functional testing"
+    ],
+    "Debugging": [
+      "debugging",
+      "debug",
+      "troubleshooting",
+      "problem diagnosis",
+      "system debugging"
+    ],
+    "Troubleshooting": [
+      "troubleshooting",
+      "issue diagnosis",
+      "problem solving"
+    ],
+    "Code Review": [
+      "code review"
+    ],
+    "Documentation": [
+      "technical documentation",
+      "api documentation",
+      "project documentation",
+      "documentation"
+    ],
+    "Agile Development": [
+      "agile development",
+      "agile"
+    ],
+    "Scrum": [
+      "scrum"
+    ],
+    "Refactoring": [
+      "refactoring"
+    ],
+    "Performance Optimization": [
+      "performance optimization",
+      "optimization"
+    ],
+    "Clean Code": [
+      "clean code",
+      "code quality"
+    ],
+    "Network Security": [
+      "network security"
+    ],
+    "Cybersecurity": [
+      "cybersecurity",
+      "cyber security"
+    ],
+    "Data Communication": [
+      "data communication",
+      "data communications"
+    ],
+    "Computer Networks": [
+      "computer networks",
+      "networking"
+    ],
+    "TCP/IP": [
+      "tcp/ip",
+      "tcp ip"
+    ],
+    "UDP": [
+      "udp"
+    ],
+    "HTTP": [
+      "http"
+    ],
+    "HTTPS": [
+      "https"
+    ],
+    "SSL/TLS": [
+      "ssl/tls",
+      "tls",
+      "ssl"
+    ],
+    "Encryption": [
+      "encryption",
+      "cryptography basics"
+    ],
+    "Firewall": [
+      "firewall"
+    ],
+    "Penetration Testing": [
+      "penetration testing",
+      "pentest",
+      "pen testing"
+    ],
+    "Secure Coding": [
+      "secure coding"
+    ],
+    "Embedded Systems": [
+      "embedded systems",
+      "embedded software"
+    ],
+    "ESP32": [
+      "esp32"
+    ],
+    "Arduino": [
+      "arduino"
+    ],
+    "Raspberry Pi": [
+      "raspberry pi",
+      "raspi"
+    ],
+    "Microcontrollers": [
+      "microcontrollers",
+      "mcu"
+    ],
+    "IoT": [
+      "iot",
+      "internet of things"
+    ],
+    "Robotics": [
+      "robotics",
+      "robotic systems"
+    ],
+    "Robotic Arm Control": [
+      "robotic arm control",
+      "robot arm control"
+    ],
+    "Motion Control": [
+      "motion control"
+    ],
+    "Stepper Motor Control": [
+      "stepper motor control",
+      "stepper motor"
+    ],
+    "Motor Control": [
+      "motor control"
+    ],
+    "PLC": [
+      "plc",
+      "programmable logic controller"
+    ],
+    "Sensor Integration": [
+      "sensor integration"
+    ],
+    "Hardware Integration": [
+      "hardware integration",
+      "hardware-software integration"
+    ],
+    "Circuit Design": [
+      "circuit design",
+      "electronics design"
+    ],
+    "Serial Communication": [
+      "serial communication",
+      "serial comm"
+    ],
+    "UART": [
+      "uart"
+    ],
+    "I2C": [
+      "i2c"
+    ],
+    "SPI": [
+      "spi"
+    ],
+    "MQTT": [
+      "mqtt"
+    ],
+    "UDP Communication": [
+      "udp communication",
+      "udp control"
+    ],
+    "Computer Vision Integration": [
+      "computer vision integration"
+    ],
+    "Control Systems": [
+      "control systems",
+      "control theory"
+    ],
+    "Real-Time Systems": [
+      "real-time systems",
+      "real time systems"
+    ],
+    "Firmware Development": [
+      "firmware development",
+      "firmware"
+    ],
+    "Image Processing": [
+      "image processing"
+    ],
+    "Object Detection": [
+      "object detection"
+    ],
+    "Object Tracking": [
+      "object tracking"
+    ],
+    "Face Detection": [
+      "face detection"
+    ],
+    "Face Tracking": [
+      "face tracking"
+    ],
+    "Pose Estimation": [
+      "pose estimation"
+    ],
+    "Visual Servoing": [
+      "visual servoing",
+      "ibvs",
+      "image-based visual servoing"
+    ],
+    "YOLO Deployment": [
+      "yolo deployment"
+    ],
+    "OpenCV Integration": [
+      "opencv integration"
+    ],
+    "Camera Calibration": [
+      "camera calibration"
+    ],
+    "Target Localization": [
+      "target localization"
+    ],
+    "Robotics Integration": [
+      "robotics integration"
+    ],
+    "System Debugging": [
+      "system debugging"
+    ],
+    "Android Development": [
+      "android development",
+      "android"
+    ],
+    "iOS Development": [
+      "ios development",
+      "ios"
+    ],
+    "Flutter": [
+      "flutter"
+    ],
+    "React Native": [
+      "react native"
+    ],
+    "Desktop Development": [
+      "desktop development"
+    ],
+    "Tkinter": [
+      "tkinter"
+    ],
+    "PyQt": [
+      "pyqt"
+    ],
+    "Electron": [
+      "electron"
+    ],
+    "Linear Algebra": [
+      "linear algebra"
+    ],
+    "Calculus": [
+      "calculus"
+    ],
+    "Probability": [
+      "probability"
+    ],
+    "Statistics": [
+      "statistics"
+    ],
+    "Applied Statistics": [
+      "applied statistics"
+    ],
+    "Discrete Mathematics": [
+      "discrete mathematics",
+      "discrete math"
+    ],
+    "Optimization": [
+      "optimization"
+    ],
+    "Numerical Methods": [
+      "numerical methods"
+    ],
+    "AI Product Development": [
+      "ai product development",
+      "ai product",
+      "ai products",
+      "ai-powered product"
+    ],
+    "AI Application Development": [
+      "ai application development",
+      "ai application",
+      "ai app development"
+    ],
+    "Intelligent Applications": [
+      "intelligent applications",
+      "intelligent application",
+      "smart applications"
+    ],
+    "Large Model Deployment": [
+      "large model deployment",
+      "llm deployment",
+      "model deployment"
+    ],
+    "Model Fine-tuning": [
+      "model fine-tuning",
+      "fine-tuning",
+      "finetuning"
+    ],
+    "Spam Detection": [
+      "spam detection",
+      "spam classification",
+      "spam email detection"
+    ],
+    "Recommendation Systems": [
+      "recommendation systems",
+      "recommender systems"
+    ],
+    "Search Systems": [
+      "search systems",
+      "search engine development"
+    ],
+    "Chatbot Development": [
+      "chatbot development",
+      "chatbot"
+    ],
+    "Resume Parsing": [
+      "resume parsing",
+      "cv parsing"
+    ],
+    "Skill Matching": [
+      "skill matching",
+      "job matching"
+    ],
+    "Knowledge Base Q&A": [
+      "knowledge base q&a",
+      "knowledge qa",
+      "question answering",
+      "q&a system"
+    ],
+    "Data Visualization": [
+      "data visualization",
+      "visualization"
+    ],
+    "Booking System Development": [
+      "booking system development",
+      "ticket booking system"
+    ],
+    "E-commerce Development": [
+      "e-commerce development",
+      "ecommerce development"
+    ],
+    "Problem Solving": [
+      "problem solving",
+      "problem-solving"
+    ],
+    "Logical Thinking": [
+      "logical thinking",
+      "strong logical thinking"
+    ],
+    "Analytical Thinking": [
+      "analytical thinking"
+    ],
+    "Communication": [
+      "communication skills",
+      "strong communication",
+      "effective communication",
+      "communicate effectively"
+    ],
+    "Teamwork": [
+      "teamwork",
+      "team collaboration",
+      "collaborate effectively",
+      "cross-functional collaboration"
+    ],
+    "Collaboration": [
+      "collaboration",
+      "cross-functional collaboration"
+    ],
+    "Learning Ability": [
+      "learning ability",
+      "quick learner",
+      "fast learner"
+    ],
+    "Self-learning": [
+      "self-learning",
+      "self learning"
+    ],
+    "Time Management": [
+      "time management"
+    ],
+    "Attention to Detail": [
+      "attention to detail",
+      "detail-oriented"
+    ],
+    "Ownership": [
+      "ownership"
+    ],
+    "Resilience": [
+      "resilience",
+      "work under pressure"
+    ],
+    "Documentation Writing": [
+      "documentation writing",
+      "technical writing"
+    ]
+  },
+  "matching_rules": {
+    "normalize_case": true,
+    "use_alias_matching": true,
+    "use_substring_matching": false,
+    "deduplicate_results": true,
+    "preferred_order": [
+      "programming_languages",
+      "ai_ml_frameworks",
+      "ai_ml_core",
+      "llm_rag_agents",
+      "backend",
+      "frontend",
+      "databases",
+      "devops_cloud",
+      "software_engineering",
+      "embedded_iot_robotics",
+      "computer_vision_robotics",
+      "data_engineering",
+      "domain_experience",
+      "soft_skills"
+    ],
+    "hide_missing_skills": [
+      "Analytical Thinking",
+      "Attention to Detail",
+      "Collaboration",
+      "Communication",
+      "Documentation",
+      "Documentation Writing",
+      "Learning Ability",
+      "Logical Thinking",
+      "Ownership",
+      "Problem Solving",
+      "Resilience",
+      "Self-learning",
+      "Teamwork",
+      "Testing",
+      "Time Management",
+      "Troubleshooting"
+    ],
+    "short_token_exact_match": [
+      "C",
+      "R",
+      "Go"
+    ],
+    "phrase_only_aliases": {
+      "Communication": [
+        "communication skills",
+        "strong communication",
+        "effective communication",
+        "communicate effectively"
+      ],
+      "Teamwork": [
+        "teamwork",
+        "team collaboration",
+        "collaborate effectively",
+        "cross-functional collaboration"
+      ],
+      "Documentation": [
+        "technical documentation",
+        "api documentation",
+        "project documentation",
+        "documentation"
+      ],
+      "Logical Thinking": [
+        "logical thinking",
+        "strong logical thinking"
+      ],
+      "Learning Ability": [
+        "learning ability",
+        "quick learner",
+        "fast learner"
+      ],
+      "Resilience": [
+        "resilience",
+        "work under pressure"
+      ],
+      "Testing": [
+        "software testing",
+        "unit testing",
+        "integration testing",
+        "functional testing",
+        "qa testing",
+        "quality assurance"
+      ],
+      "Gin": [
+        "gin framework",
+        "gin-gonic",
+        "gin web framework"
+      ],
+      "Go": [
+        "go language",
+        "golang",
+        "programming in go",
+        "written in go"
+      ],
+      "R": [
+        "r language",
+        "using r",
+        "programming in r",
+        "written in r"
+      ],
+      "C": [
+        "c language",
+        "programming in c",
+        "written in c"
+      ],
+      "Problem Solving": [
+        "problem solving",
+        "problem-solving"
+      ],
+      "Troubleshooting": [
+        "troubleshooting",
+        "troubleshoot"
+      ]
+    }
+  },
+  "hidden_missing_skills": [
+    "Analytical Thinking",
+    "Attention to Detail",
+    "Collaboration",
+    "Communication",
+    "Documentation",
+    "Documentation Writing",
+    "Learning Ability",
+    "Logical Thinking",
+    "Ownership",
+    "Problem Solving",
+    "Resilience",
+    "Self-learning",
+    "Teamwork",
+    "Testing",
+    "Time Management",
+    "Troubleshooting"
+  ]
+}

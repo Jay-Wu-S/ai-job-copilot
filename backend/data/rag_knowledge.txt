@@ -1,0 +1,9 @@
+RAG stands for Retrieval-Augmented Generation.
+It combines information retrieval with text generation.
+
+In RAG systems:
+1. A query is used to retrieve relevant documents.
+2. The retrieved documents are used as context.
+3. A language model generates the final answer.
+
+RAG is widely used in AI applications such as chatbots, search systems, and question answering.

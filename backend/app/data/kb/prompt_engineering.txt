@@ -1,0 +1,3 @@
+Prompt Engineering is the practice of designing effective prompts for large language model applications.
+It includes prompt structure design, context injection, instruction clarity, and output control.
+In AI product projects, prompt engineering is useful for response quality improvement, task control, and retrieval-based workflows.

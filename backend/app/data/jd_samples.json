@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "AI Backend Intern",
+    "description": "We are looking for a candidate familiar with Python, FastAPI, REST API, LangChain, RAG, TensorFlow, Git, and basic frontend collaboration."
+  },
+  {
+    "id": 2,
+    "title": "Full Stack AI Intern",
+    "description": "The candidate should know Vue3, Element Plus, JavaScript or TypeScript, Python, FastAPI, and have experience with AI application development."
+  }
+]

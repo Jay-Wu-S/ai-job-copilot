@@ -1,0 +1,25 @@
+[
+  { "text": "Built backend APIs with FastAPI and Python.", "label": "backend" },
+  { "text": "Implemented REST API endpoints and request validation.", "label": "backend" },
+  { "text": "Created a server-side service for file upload and parsing.", "label": "backend" },
+  { "text": "Developed backend logic using Python and FastAPI.", "label": "backend" },
+  { "text": "Integrated API routes and data processing modules.", "label": "backend" },
+
+  { "text": "Built interactive dashboards with Vue3 and Element Plus.", "label": "frontend" },
+  { "text": "Designed responsive user interfaces using Vue and CSS.", "label": "frontend" },
+  { "text": "Connected frontend components to backend APIs with Axios.", "label": "frontend" },
+  { "text": "Implemented form pages and result display panels.", "label": "frontend" },
+  { "text": "Created web UI modules with JavaScript and Vue3.", "label": "frontend" },
+
+  { "text": "Built a RAG pipeline with LangChain and vector retrieval.", "label": "ai_ml" },
+  { "text": "Developed AI features for question answering and skill matching.", "label": "ai_ml" },
+  { "text": "Used TensorFlow to train a lightweight text classifier.", "label": "ai_ml" },
+  { "text": "Worked on machine learning and natural language processing tasks.", "label": "ai_ml" },
+  { "text": "Built AI-powered applications with embeddings and retrieval.", "label": "ai_ml" },
+
+  { "text": "Used Git for version control and collaboration.", "label": "tools" },
+  { "text": "Developed on Linux and managed dependencies with pip.", "label": "tools" },
+  { "text": "Used Docker to containerize backend services.", "label": "tools" },
+  { "text": "Built the project with Cursor and Coze as development tools.", "label": "tools" },
+  { "text": "Managed the development workflow with Git and Linux.", "label": "tools" }
+]

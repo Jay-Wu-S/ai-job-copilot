@@ -1,0 +1,3 @@
+RAG stands for Retrieval-Augmented Generation.
+A typical RAG pipeline includes document loading, text splitting, embedding, retrieval, and answer generation.
+In a small project, RAG can be implemented using a few local text files and a lightweight retrieval process.

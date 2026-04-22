@@ -1,0 +1,3 @@
+TensorFlow is a machine learning framework widely used for deep learning and model development.
+In small AI product projects, TensorFlow can be used to build lightweight text classifiers, such as skill category classifiers for resume analysis.
+TensorFlow Keras provides high-level APIs for model building, training, saving, and loading.

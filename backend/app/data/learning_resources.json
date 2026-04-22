@@ -1,0 +1,1414 @@
+{
+  "Python": [
+    "Learn Python syntax, functions, classes, file handling, and virtual environments.",
+    "Build 2 to 3 practical projects such as an API service, a data processing script, and an automation tool."
+  ],
+  "Java": [
+    "Learn OOP, collections, exception handling, multithreading, and Maven/Gradle basics.",
+    "Build a small backend or desktop project and practice clean code structure."
+  ],
+  "C": [
+    "Learn core syntax, common libraries, debugging patterns, and best practices for C.",
+    "Use C in at least one practical project and document the development workflow."
+  ],
+  "C++": [
+    "Practice pointers, memory management, STL, OOP, and modern C++ features.",
+    "Implement 2 algorithmic modules and one systems-style project to strengthen performance-oriented coding."
+  ],
+  "C#": [
+    "Learn core syntax, common libraries, debugging patterns, and best practices for C#.",
+    "Use C# in at least one practical project and document the development workflow."
+  ],
+  "JavaScript": [
+    "Learn ES6+, async programming, DOM basics, modules, and API calls.",
+    "Build a small interactive web app and connect it to a backend service."
+  ],
+  "TypeScript": [
+    "Learn type annotations, interfaces, generics, utility types, and strict mode.",
+    "Convert a JavaScript project to TypeScript and fix typing issues systematically."
+  ],
+  "Go": [
+    "Learn structs, interfaces, goroutines, channels, modules, and error handling.",
+    "Build a small concurrent API service and practice code organization."
+  ],
+  "Rust": [
+    "Learn ownership, borrowing, lifetimes, pattern matching, and Cargo.",
+    "Build a CLI or systems utility to practice safe performance-oriented programming."
+  ],
+  "PHP": [
+    "Learn core syntax, common libraries, debugging patterns, and best practices for PHP.",
+    "Use PHP in at least one practical project and document the development workflow."
+  ],
+  "Ruby": [
+    "Learn core syntax, common libraries, debugging patterns, and best practices for Ruby.",
+    "Use Ruby in at least one practical project and document the development workflow."
+  ],
+  "Swift": [
+    "Learn core syntax, common libraries, debugging patterns, and best practices for Swift.",
+    "Use Swift in at least one practical project and document the development workflow."
+  ],
+  "Kotlin": [
+    "Learn core syntax, common libraries, debugging patterns, and best practices for Kotlin.",
+    "Use Kotlin in at least one practical project and document the development workflow."
+  ],
+  "R": [
+    "Learn core syntax, common libraries, debugging patterns, and best practices for R.",
+    "Use R in at least one practical project and document the development workflow."
+  ],
+  "MATLAB": [
+    "Learn matrix operations, plotting, scripts/functions, and numerical modeling.",
+    "Use MATLAB to simulate or analyze an engineering problem and interpret the results."
+  ],
+  "Scala": [
+    "Learn core syntax, common libraries, debugging patterns, and best practices for Scala.",
+    "Use Scala in at least one practical project and document the development workflow."
+  ],
+  "Dart": [
+    "Learn core syntax, common libraries, debugging patterns, and best practices for Dart.",
+    "Use Dart in at least one practical project and document the development workflow."
+  ],
+  "SQL": [
+    "Practice SELECT, JOIN, GROUP BY, subqueries, window functions, and transactions.",
+    "Solve database query tasks and design a small schema for a real project."
+  ],
+  "Bash": [
+    "Learn core syntax, common libraries, debugging patterns, and best practices for Bash.",
+    "Use Bash in at least one practical project and document the development workflow."
+  ],
+  "Shell": [
+    "Learn core syntax, common libraries, debugging patterns, and best practices for Shell.",
+    "Use Shell in at least one practical project and document the development workflow."
+  ],
+  "PowerShell": [
+    "Learn core syntax, common libraries, debugging patterns, and best practices for PowerShell.",
+    "Use PowerShell in at least one practical project and document the development workflow."
+  ],
+  "Julia": [
+    "Learn core syntax, common libraries, debugging patterns, and best practices for Julia.",
+    "Use Julia in at least one practical project and document the development workflow."
+  ],
+  "Perl": [
+    "Learn core syntax, common libraries, debugging patterns, and best practices for Perl.",
+    "Use Perl in at least one practical project and document the development workflow."
+  ],
+  "Objective-C": [
+    "Learn core syntax, common libraries, debugging patterns, and best practices for Objective-C.",
+    "Use Objective-C in at least one practical project and document the development workflow."
+  ],
+  "Lua": [
+    "Learn core syntax, common libraries, debugging patterns, and best practices for Lua.",
+    "Use Lua in at least one practical project and document the development workflow."
+  ],
+  "Assembly": [
+    "Learn core syntax, common libraries, debugging patterns, and best practices for Assembly.",
+    "Use Assembly in at least one practical project and document the development workflow."
+  ],
+  "HTML": [
+    "Learn semantic tags, forms, accessibility basics, and page structure.",
+    "Build a multi-section landing page and practice clean document structure."
+  ],
+  "CSS": [
+    "Learn layout, flexbox, grid, positioning, transitions, and responsive design.",
+    "Recreate two real web page layouts and optimize them for different screen sizes."
+  ],
+  "Sass": [
+    "Learn the main concepts, components, and integration patterns related to Sass.",
+    "Build a small web UI feature using Sass and connect it to a backend API."
+  ],
+  "Less": [
+    "Learn the main concepts, components, and integration patterns related to Less.",
+    "Build a small web UI feature using Less and connect it to a backend API."
+  ],
+  "Tailwind CSS": [
+    "Learn the main concepts, components, and integration patterns related to Tailwind CSS.",
+    "Build a small web UI feature using Tailwind CSS and connect it to a backend API."
+  ],
+  "Bootstrap": [
+    "Learn the main concepts, components, and integration patterns related to Bootstrap.",
+    "Build a small web UI feature using Bootstrap and connect it to a backend API."
+  ],
+  "Material UI": [
+    "Learn the main concepts, components, and integration patterns related to Material UI.",
+    "Build a small web UI feature using Material UI and connect it to a backend API."
+  ],
+  "Ant Design": [
+    "Learn the main concepts, components, and integration patterns related to Ant Design.",
+    "Build a small web UI feature using Ant Design and connect it to a backend API."
+  ],
+  "Element Plus": [
+    "Learn the main concepts, components, and integration patterns related to Element Plus.",
+    "Build a small web UI feature using Element Plus and connect it to a backend API."
+  ],
+  "Vue": [
+    "Learn the main concepts, components, and integration patterns related to Vue.",
+    "Build a small web UI feature using Vue and connect it to a backend API."
+  ],
+  "Vue2": [
+    "Learn the main concepts, components, and integration patterns related to Vue2.",
+    "Build a small web UI feature using Vue2 and connect it to a backend API."
+  ],
+  "Vue3": [
+    "Learn Composition API, reactive state, props/emits, lifecycle hooks, and component design.",
+    "Build a dashboard page and connect it to a backend API."
+  ],
+  "React": [
+    "Learn hooks, state management, component composition, and effect handling.",
+    "Build a CRUD app and practice reusable component design."
+  ],
+  "Next.js": [
+    "Learn the main concepts, components, and integration patterns related to Next.js.",
+    "Build a small web UI feature using Next.js and connect it to a backend API."
+  ],
+  "Angular": [
+    "Learn the main concepts, components, and integration patterns related to Angular.",
+    "Build a small web UI feature using Angular and connect it to a backend API."
+  ],
+  "Svelte": [
+    "Learn the main concepts, components, and integration patterns related to Svelte.",
+    "Build a small web UI feature using Svelte and connect it to a backend API."
+  ],
+  "Nuxt.js": [
+    "Learn the main concepts, components, and integration patterns related to Nuxt.js.",
+    "Build a small web UI feature using Nuxt.js and connect it to a backend API."
+  ],
+  "Vite": [
+    "Learn the main concepts, components, and integration patterns related to Vite.",
+    "Build a small web UI feature using Vite and connect it to a backend API."
+  ],
+  "Webpack": [
+    "Learn the main concepts, components, and integration patterns related to Webpack.",
+    "Build a small web UI feature using Webpack and connect it to a backend API."
+  ],
+  "Parcel": [
+    "Learn the main concepts, components, and integration patterns related to Parcel.",
+    "Build a small web UI feature using Parcel and connect it to a backend API."
+  ],
+  "jQuery": [
+    "Learn the main concepts, components, and integration patterns related to jQuery.",
+    "Build a small web UI feature using jQuery and connect it to a backend API."
+  ],
+  "Axios": [
+    "Learn the main concepts, components, and integration patterns related to Axios.",
+    "Build a small web UI feature using Axios and connect it to a backend API."
+  ],
+  "Fetch API": [
+    "Learn the main concepts, components, and integration patterns related to Fetch API.",
+    "Build a small web UI feature using Fetch API and connect it to a backend API."
+  ],
+  "Responsive Design": [
+    "Learn the main concepts, components, and integration patterns related to Responsive Design.",
+    "Build a small web UI feature using Responsive Design and connect it to a backend API."
+  ],
+  "UI Development": [
+    "Learn the main concepts, components, and integration patterns related to UI Development.",
+    "Build a small web UI feature using UI Development and connect it to a backend API."
+  ],
+  "Web Development": [
+    "Learn the main concepts, components, and integration patterns related to Web Development.",
+    "Build a small web UI feature using Web Development and connect it to a backend API."
+  ],
+  "Frontend Development": [
+    "Learn the main concepts, components, and integration patterns related to Frontend Development.",
+    "Build a small web UI feature using Frontend Development and connect it to a backend API."
+  ],
+  "Component Design": [
+    "Learn the main concepts, components, and integration patterns related to Component Design.",
+    "Build a small web UI feature using Component Design and connect it to a backend API."
+  ],
+  "State Management": [
+    "Learn the main concepts, components, and integration patterns related to State Management.",
+    "Build a small web UI feature using State Management and connect it to a backend API."
+  ],
+  "Redux": [
+    "Learn the main concepts, components, and integration patterns related to Redux.",
+    "Build a small web UI feature using Redux and connect it to a backend API."
+  ],
+  "Pinia": [
+    "Learn the main concepts, components, and integration patterns related to Pinia.",
+    "Build a small web UI feature using Pinia and connect it to a backend API."
+  ],
+  "Vuex": [
+    "Learn the main concepts, components, and integration patterns related to Vuex.",
+    "Build a small web UI feature using Vuex and connect it to a backend API."
+  ],
+  "FastAPI": [
+    "Learn routing, Pydantic models, validation, file upload, dependency injection, and async endpoints.",
+    "Build a backend with 5 to 8 endpoints and add Swagger-tested APIs."
+  ],
+  "Flask": [
+    "Learn routing, request handling, templates, blueprints, and app configuration.",
+    "Build a small REST service or web app and structure it into reusable modules."
+  ],
+  "Django": [
+    "Learn models, views, templates, forms, admin, and ORM usage.",
+    "Build a small full-stack web app with authentication and database integration."
+  ],
+  "Spring Boot": [
+    "Learn controllers, dependency injection, JPA, configuration, and REST API development.",
+    "Build a small enterprise-style backend service with layered architecture."
+  ],
+  "Spring": [
+    "Study the core backend concepts, request/response flow, and implementation patterns for Spring.",
+    "Apply Spring in a small service with validation, error handling, and testing."
+  ],
+  "Node.js": [
+    "Learn the runtime model, modules, async programming, streams, and npm tooling.",
+    "Build a backend service and practice file handling plus API integration."
+  ],
+  "Express.js": [
+    "Study the core backend concepts, request/response flow, and implementation patterns for Express.js.",
+    "Apply Express.js in a small service with validation, error handling, and testing."
+  ],
+  "NestJS": [
+    "Study the core backend concepts, request/response flow, and implementation patterns for NestJS.",
+    "Apply NestJS in a small service with validation, error handling, and testing."
+  ],
+  "ASP.NET": [
+    "Study the core backend concepts, request/response flow, and implementation patterns for ASP.NET.",
+    "Apply ASP.NET in a small service with validation, error handling, and testing."
+  ],
+  "ASP.NET Core": [
+    "Study the core backend concepts, request/response flow, and implementation patterns for ASP.NET Core.",
+    "Apply ASP.NET Core in a small service with validation, error handling, and testing."
+  ],
+  "Laravel": [
+    "Study the core backend concepts, request/response flow, and implementation patterns for Laravel.",
+    "Apply Laravel in a small service with validation, error handling, and testing."
+  ],
+  "Ruby on Rails": [
+    "Study the core backend concepts, request/response flow, and implementation patterns for Ruby on Rails.",
+    "Apply Ruby on Rails in a small service with validation, error handling, and testing."
+  ],
+  "Gin": [
+    "Study the core backend concepts, request/response flow, and implementation patterns for Gin.",
+    "Apply Gin in a small service with validation, error handling, and testing."
+  ],
+  "Echo": [
+    "Study the core backend concepts, request/response flow, and implementation patterns for Echo.",
+    "Apply Echo in a small service with validation, error handling, and testing."
+  ],
+  "Koa": [
+    "Study the core backend concepts, request/response flow, and implementation patterns for Koa.",
+    "Apply Koa in a small service with validation, error handling, and testing."
+  ],
+  "REST API": [
+    "Understand resources, HTTP methods, status codes, validation, pagination, and error handling.",
+    "Design and implement a clean API contract, then test it with Swagger or Postman."
+  ],
+  "RESTful API": [
+    "Study the core backend concepts, request/response flow, and implementation patterns for RESTful API.",
+    "Apply RESTful API in a small service with validation, error handling, and testing."
+  ],
+  "GraphQL": [
+    "Learn schema design, resolvers, queries, mutations, and data loading.",
+    "Build a small GraphQL service and compare it with a REST-based solution."
+  ],
+  "gRPC": [
+    "Study the core backend concepts, request/response flow, and implementation patterns for gRPC.",
+    "Apply gRPC in a small service with validation, error handling, and testing."
+  ],
+  "WebSocket": [
+    "Study the core backend concepts, request/response flow, and implementation patterns for WebSocket.",
+    "Apply WebSocket in a small service with validation, error handling, and testing."
+  ],
+  "Microservices": [
+    "Study the core backend concepts, request/response flow, and implementation patterns for Microservices.",
+    "Apply Microservices in a small service with validation, error handling, and testing."
+  ],
+  "Backend Development": [
+    "Study the core backend concepts, request/response flow, and implementation patterns for Backend Development.",
+    "Apply Backend Development in a small service with validation, error handling, and testing."
+  ],
+  "API Development": [
+    "Study the core backend concepts, request/response flow, and implementation patterns for API Development.",
+    "Apply API Development in a small service with validation, error handling, and testing."
+  ],
+  "Authentication": [
+    "Study the core backend concepts, request/response flow, and implementation patterns for Authentication.",
+    "Apply Authentication in a small service with validation, error handling, and testing."
+  ],
+  "Authorization": [
+    "Study the core backend concepts, request/response flow, and implementation patterns for Authorization.",
+    "Apply Authorization in a small service with validation, error handling, and testing."
+  ],
+  "JWT": [
+    "Study the core backend concepts, request/response flow, and implementation patterns for JWT.",
+    "Apply JWT in a small service with validation, error handling, and testing."
+  ],
+  "OAuth": [
+    "Study the core backend concepts, request/response flow, and implementation patterns for OAuth.",
+    "Apply OAuth in a small service with validation, error handling, and testing."
+  ],
+  "Session Management": [
+    "Study the core backend concepts, request/response flow, and implementation patterns for Session Management.",
+    "Apply Session Management in a small service with validation, error handling, and testing."
+  ],
+  "File Upload": [
+    "Study the core backend concepts, request/response flow, and implementation patterns for File Upload.",
+    "Apply File Upload in a small service with validation, error handling, and testing."
+  ],
+  "Rate Limiting": [
+    "Study the core backend concepts, request/response flow, and implementation patterns for Rate Limiting.",
+    "Apply Rate Limiting in a small service with validation, error handling, and testing."
+  ],
+  "Caching": [
+    "Study the core backend concepts, request/response flow, and implementation patterns for Caching.",
+    "Apply Caching in a small service with validation, error handling, and testing."
+  ],
+  "MySQL": [
+    "Learn schema design, normalization, indexing, joins, transactions, and backups.",
+    "Build a relational database for a real project and optimize several common queries."
+  ],
+  "PostgreSQL": [
+    "Learn relational design, indexing, transactions, views, JSON support, and query planning.",
+    "Use PostgreSQL in a backend project and analyze slow queries with EXPLAIN."
+  ],
+  "SQLite": [
+    "Learn schema design, querying, optimization basics, and practical usage patterns for SQLite.",
+    "Use SQLite in a real project and practice designing tables, indexes, or queries."
+  ],
+  "MariaDB": [
+    "Learn schema design, querying, optimization basics, and practical usage patterns for MariaDB.",
+    "Use MariaDB in a real project and practice designing tables, indexes, or queries."
+  ],
+  "SQL Server": [
+    "Learn schema design, querying, optimization basics, and practical usage patterns for SQL Server.",
+    "Use SQL Server in a real project and practice designing tables, indexes, or queries."
+  ],
+  "Oracle Database": [
+    "Learn schema design, querying, optimization basics, and practical usage patterns for Oracle Database.",
+    "Use Oracle Database in a real project and practice designing tables, indexes, or queries."
+  ],
+  "MongoDB": [
+    "Learn collections, documents, indexes, aggregation, and schema design trade-offs.",
+    "Build a small project using document storage and practice query plus aggregation patterns."
+  ],
+  "Redis": [
+    "Learn caching, expiration, pub/sub, data structures, and session storage.",
+    "Add Redis caching to a backend project and measure latency improvement."
+  ],
+  "Elasticsearch": [
+    "Learn schema design, querying, optimization basics, and practical usage patterns for Elasticsearch.",
+    "Use Elasticsearch in a real project and practice designing tables, indexes, or queries."
+  ],
+  "OpenSearch": [
+    "Learn schema design, querying, optimization basics, and practical usage patterns for OpenSearch.",
+    "Use OpenSearch in a real project and practice designing tables, indexes, or queries."
+  ],
+  "DynamoDB": [
+    "Learn schema design, querying, optimization basics, and practical usage patterns for DynamoDB.",
+    "Use DynamoDB in a real project and practice designing tables, indexes, or queries."
+  ],
+  "Cassandra": [
+    "Learn schema design, querying, optimization basics, and practical usage patterns for Cassandra.",
+    "Use Cassandra in a real project and practice designing tables, indexes, or queries."
+  ],
+  "Firebase": [
+    "Learn schema design, querying, optimization basics, and practical usage patterns for Firebase.",
+    "Use Firebase in a real project and practice designing tables, indexes, or queries."
+  ],
+  "Supabase": [
+    "Learn schema design, querying, optimization basics, and practical usage patterns for Supabase.",
+    "Use Supabase in a real project and practice designing tables, indexes, or queries."
+  ],
+  "Neo4j": [
+    "Learn schema design, querying, optimization basics, and practical usage patterns for Neo4j.",
+    "Use Neo4j in a real project and practice designing tables, indexes, or queries."
+  ],
+  "Database Design": [
+    "Learn schema design, querying, optimization basics, and practical usage patterns for Database Design.",
+    "Use Database Design in a real project and practice designing tables, indexes, or queries."
+  ],
+  "Database Management": [
+    "Learn schema design, querying, optimization basics, and practical usage patterns for Database Management.",
+    "Use Database Management in a real project and practice designing tables, indexes, or queries."
+  ],
+  "Database Optimization": [
+    "Learn schema design, querying, optimization basics, and practical usage patterns for Database Optimization.",
+    "Use Database Optimization in a real project and practice designing tables, indexes, or queries."
+  ],
+  "Indexing": [
+    "Learn schema design, querying, optimization basics, and practical usage patterns for Indexing.",
+    "Use Indexing in a real project and practice designing tables, indexes, or queries."
+  ],
+  "Query Optimization": [
+    "Learn schema design, querying, optimization basics, and practical usage patterns for Query Optimization.",
+    "Use Query Optimization in a real project and practice designing tables, indexes, or queries."
+  ],
+  "ORM": [
+    "Learn schema design, querying, optimization basics, and practical usage patterns for ORM.",
+    "Use ORM in a real project and practice designing tables, indexes, or queries."
+  ],
+  "Prisma": [
+    "Learn schema design, querying, optimization basics, and practical usage patterns for Prisma.",
+    "Use Prisma in a real project and practice designing tables, indexes, or queries."
+  ],
+  "SQLAlchemy": [
+    "Learn schema design, querying, optimization basics, and practical usage patterns for SQLAlchemy.",
+    "Use SQLAlchemy in a real project and practice designing tables, indexes, or queries."
+  ],
+  "Entity Framework": [
+    "Learn schema design, querying, optimization basics, and practical usage patterns for Entity Framework.",
+    "Use Entity Framework in a real project and practice designing tables, indexes, or queries."
+  ],
+  "Mongoose": [
+    "Learn schema design, querying, optimization basics, and practical usage patterns for Mongoose.",
+    "Use Mongoose in a real project and practice designing tables, indexes, or queries."
+  ],
+  "Docker": [
+    "Learn images, containers, Dockerfile, volumes, networks, and compose basics.",
+    "Containerize your backend and database and run the full stack locally."
+  ],
+  "Kubernetes": [
+    "Learn pods, deployments, services, config maps, ingress, and scaling.",
+    "Deploy a small containerized service and understand rollout plus troubleshooting basics."
+  ],
+  "Git": [
+    "Learn branching, merge, rebase, pull requests, and conflict resolution.",
+    "Use Git in a multi-feature project and keep a clean commit history."
+  ],
+  "GitHub": [
+    "Understand deployment, automation, observability, and workflow concepts related to GitHub.",
+    "Apply GitHub in a small deployment or delivery pipeline and record the setup steps."
+  ],
+  "GitLab": [
+    "Understand deployment, automation, observability, and workflow concepts related to GitLab.",
+    "Apply GitLab in a small deployment or delivery pipeline and record the setup steps."
+  ],
+  "CI/CD": [
+    "Learn automated testing, build pipelines, deployment workflows, and environment management.",
+    "Create a GitHub Actions or GitLab CI pipeline for linting, testing, and deployment."
+  ],
+  "GitHub Actions": [
+    "Understand deployment, automation, observability, and workflow concepts related to GitHub Actions.",
+    "Apply GitHub Actions in a small deployment or delivery pipeline and record the setup steps."
+  ],
+  "GitLab CI": [
+    "Understand deployment, automation, observability, and workflow concepts related to GitLab CI.",
+    "Apply GitLab CI in a small deployment or delivery pipeline and record the setup steps."
+  ],
+  "Jenkins": [
+    "Understand deployment, automation, observability, and workflow concepts related to Jenkins.",
+    "Apply Jenkins in a small deployment or delivery pipeline and record the setup steps."
+  ],
+  "Linux": [
+    "Learn shell usage, file permissions, process management, networking, and package management.",
+    "Practice running and debugging backend services from the command line."
+  ],
+  "Ubuntu": [
+    "Understand deployment, automation, observability, and workflow concepts related to Ubuntu.",
+    "Apply Ubuntu in a small deployment or delivery pipeline and record the setup steps."
+  ],
+  "Nginx": [
+    "Understand deployment, automation, observability, and workflow concepts related to Nginx.",
+    "Apply Nginx in a small deployment or delivery pipeline and record the setup steps."
+  ],
+  "Apache": [
+    "Understand deployment, automation, observability, and workflow concepts related to Apache.",
+    "Apply Apache in a small deployment or delivery pipeline and record the setup steps."
+  ],
+  "AWS": [
+    "Learn core services such as EC2, S3, IAM, RDS, and deployment basics.",
+    "Deploy one small web application and document the cloud architecture."
+  ],
+  "Azure": [
+    "Learn App Service, Blob Storage, Functions, IAM, and deployment fundamentals.",
+    "Deploy a simple backend and understand resource organization in Azure."
+  ],
+  "Google Cloud": [
+    "Understand deployment, automation, observability, and workflow concepts related to Google Cloud.",
+    "Apply Google Cloud in a small deployment or delivery pipeline and record the setup steps."
+  ],
+  "Alibaba Cloud": [
+    "Understand deployment, automation, observability, and workflow concepts related to Alibaba Cloud.",
+    "Apply Alibaba Cloud in a small deployment or delivery pipeline and record the setup steps."
+  ],
+  "Cloud Computing": [
+    "Understand deployment, automation, observability, and workflow concepts related to Cloud Computing.",
+    "Apply Cloud Computing in a small deployment or delivery pipeline and record the setup steps."
+  ],
+  "Cloud Deployment": [
+    "Understand deployment, automation, observability, and workflow concepts related to Cloud Deployment.",
+    "Apply Cloud Deployment in a small deployment or delivery pipeline and record the setup steps."
+  ],
+  "Terraform": [
+    "Understand deployment, automation, observability, and workflow concepts related to Terraform.",
+    "Apply Terraform in a small deployment or delivery pipeline and record the setup steps."
+  ],
+  "Ansible": [
+    "Understand deployment, automation, observability, and workflow concepts related to Ansible.",
+    "Apply Ansible in a small deployment or delivery pipeline and record the setup steps."
+  ],
+  "Shell Scripting": [
+    "Understand deployment, automation, observability, and workflow concepts related to Shell Scripting.",
+    "Apply Shell Scripting in a small deployment or delivery pipeline and record the setup steps."
+  ],
+  "Bash Scripting": [
+    "Understand deployment, automation, observability, and workflow concepts related to Bash Scripting.",
+    "Apply Bash Scripting in a small deployment or delivery pipeline and record the setup steps."
+  ],
+  "Monitoring": [
+    "Understand deployment, automation, observability, and workflow concepts related to Monitoring.",
+    "Apply Monitoring in a small deployment or delivery pipeline and record the setup steps."
+  ],
+  "Logging": [
+    "Understand deployment, automation, observability, and workflow concepts related to Logging.",
+    "Apply Logging in a small deployment or delivery pipeline and record the setup steps."
+  ],
+  "Prometheus": [
+    "Understand deployment, automation, observability, and workflow concepts related to Prometheus.",
+    "Apply Prometheus in a small deployment or delivery pipeline and record the setup steps."
+  ],
+  "Grafana": [
+    "Understand deployment, automation, observability, and workflow concepts related to Grafana.",
+    "Apply Grafana in a small deployment or delivery pipeline and record the setup steps."
+  ],
+  "Vercel": [
+    "Understand deployment, automation, observability, and workflow concepts related to Vercel.",
+    "Apply Vercel in a small deployment or delivery pipeline and record the setup steps."
+  ],
+  "Netlify": [
+    "Understand deployment, automation, observability, and workflow concepts related to Netlify.",
+    "Apply Netlify in a small deployment or delivery pipeline and record the setup steps."
+  ],
+  "DigitalOcean": [
+    "Understand deployment, automation, observability, and workflow concepts related to DigitalOcean.",
+    "Apply DigitalOcean in a small deployment or delivery pipeline and record the setup steps."
+  ],
+  "Artificial Intelligence": [
+    "Learn the mathematical intuition, workflow, and evaluation methods behind Artificial Intelligence.",
+    "Build one small project using Artificial Intelligence and compare multiple approaches or baselines."
+  ],
+  "Machine Learning": [
+    "Understand supervised learning, feature engineering, evaluation metrics, and overfitting.",
+    "Build 2 small ML projects and compare multiple baseline models."
+  ],
+  "Deep Learning": [
+    "Learn neural networks, backpropagation, optimization, regularization, and model evaluation.",
+    "Train at least one image or text model and document the full pipeline."
+  ],
+  "Neural Networks": [
+    "Learn the mathematical intuition, workflow, and evaluation methods behind Neural Networks.",
+    "Build one small project using Neural Networks and compare multiple approaches or baselines."
+  ],
+  "Supervised Learning": [
+    "Learn the mathematical intuition, workflow, and evaluation methods behind Supervised Learning.",
+    "Build one small project using Supervised Learning and compare multiple approaches or baselines."
+  ],
+  "Unsupervised Learning": [
+    "Learn the mathematical intuition, workflow, and evaluation methods behind Unsupervised Learning.",
+    "Build one small project using Unsupervised Learning and compare multiple approaches or baselines."
+  ],
+  "Reinforcement Learning": [
+    "Learn the mathematical intuition, workflow, and evaluation methods behind Reinforcement Learning.",
+    "Build one small project using Reinforcement Learning and compare multiple approaches or baselines."
+  ],
+  "Natural Language Processing": [
+    "Learn the mathematical intuition, workflow, and evaluation methods behind Natural Language Processing.",
+    "Build one small project using Natural Language Processing and compare multiple approaches or baselines."
+  ],
+  "NLP": [
+    "Learn tokenization, embeddings, text classification, information extraction, and evaluation.",
+    "Build a small NLP project such as spam detection, sentiment analysis, or Q&A preprocessing."
+  ],
+  "Computer Vision": [
+    "Learn image preprocessing, feature extraction, detection, tracking, and evaluation metrics.",
+    "Build one vision project using OpenCV or a detection framework."
+  ],
+  "Model Training": [
+    "Learn the mathematical intuition, workflow, and evaluation methods behind Model Training.",
+    "Build one small project using Model Training and compare multiple approaches or baselines."
+  ],
+  "Model Evaluation": [
+    "Learn the mathematical intuition, workflow, and evaluation methods behind Model Evaluation.",
+    "Build one small project using Model Evaluation and compare multiple approaches or baselines."
+  ],
+  "Feature Engineering": [
+    "Learn the mathematical intuition, workflow, and evaluation methods behind Feature Engineering.",
+    "Build one small project using Feature Engineering and compare multiple approaches or baselines."
+  ],
+  "Feature Extraction": [
+    "Learn the mathematical intuition, workflow, and evaluation methods behind Feature Extraction.",
+    "Build one small project using Feature Extraction and compare multiple approaches or baselines."
+  ],
+  "Data Preprocessing": [
+    "Learn the mathematical intuition, workflow, and evaluation methods behind Data Preprocessing.",
+    "Build one small project using Data Preprocessing and compare multiple approaches or baselines."
+  ],
+  "Data Cleaning": [
+    "Learn the mathematical intuition, workflow, and evaluation methods behind Data Cleaning.",
+    "Build one small project using Data Cleaning and compare multiple approaches or baselines."
+  ],
+  "Data Analysis": [
+    "Learn cleaning, aggregation, visualization, statistical interpretation, and reporting.",
+    "Complete one exploratory analysis project and summarize actionable insights."
+  ],
+  "Statistical Analysis": [
+    "Learn the mathematical intuition, workflow, and evaluation methods behind Statistical Analysis.",
+    "Build one small project using Statistical Analysis and compare multiple approaches or baselines."
+  ],
+  "Experiment Design": [
+    "Learn the mathematical intuition, workflow, and evaluation methods behind Experiment Design.",
+    "Build one small project using Experiment Design and compare multiple approaches or baselines."
+  ],
+  "Hyperparameter Tuning": [
+    "Learn the mathematical intuition, workflow, and evaluation methods behind Hyperparameter Tuning.",
+    "Build one small project using Hyperparameter Tuning and compare multiple approaches or baselines."
+  ],
+  "Inference Optimization": [
+    "Learn the mathematical intuition, workflow, and evaluation methods behind Inference Optimization.",
+    "Build one small project using Inference Optimization and compare multiple approaches or baselines."
+  ],
+  "TensorFlow": [
+    "Learn Keras basics, text classification workflow, and model saving/loading.",
+    "Build a lightweight text classifier and expose inference through an API."
+  ],
+  "Keras": [
+    "Learn the APIs, data pipeline, training or inference flow, and debugging methods for Keras.",
+    "Use Keras to implement one reproducible experiment or mini application."
+  ],
+  "PyTorch": [
+    "Learn tensors, autograd, modules, DataLoader, training loops, and model saving.",
+    "Build one image or text model and practice debugging the training process."
+  ],
+  "Scikit-learn": [
+    "Learn preprocessing, pipelines, model selection, metrics, and classical ML algorithms.",
+    "Build a structured ML workflow with baseline comparison and cross-validation."
+  ],
+  "XGBoost": [
+    "Learn the APIs, data pipeline, training or inference flow, and debugging methods for XGBoost.",
+    "Use XGBoost to implement one reproducible experiment or mini application."
+  ],
+  "LightGBM": [
+    "Learn the APIs, data pipeline, training or inference flow, and debugging methods for LightGBM.",
+    "Use LightGBM to implement one reproducible experiment or mini application."
+  ],
+  "CatBoost": [
+    "Learn the APIs, data pipeline, training or inference flow, and debugging methods for CatBoost.",
+    "Use CatBoost to implement one reproducible experiment or mini application."
+  ],
+  "OpenCV": [
+    "Learn image I/O, filtering, drawing, transformations, thresholding, and video processing.",
+    "Build a small vision pipeline such as face tracking or object measurement."
+  ],
+  "Pandas": [
+    "Learn DataFrame operations, joins, groupby, missing data handling, and time series basics.",
+    "Solve structured data tasks and build a reusable analysis notebook."
+  ],
+  "NumPy": [
+    "Learn arrays, broadcasting, vectorization, linear algebra basics, and numerical computing patterns.",
+    "Practice replacing Python loops with efficient array operations."
+  ],
+  "Matplotlib": [
+    "Learn the APIs, data pipeline, training or inference flow, and debugging methods for Matplotlib.",
+    "Use Matplotlib to implement one reproducible experiment or mini application."
+  ],
+  "Seaborn": [
+    "Learn the APIs, data pipeline, training or inference flow, and debugging methods for Seaborn.",
+    "Use Seaborn to implement one reproducible experiment or mini application."
+  ],
+  "SciPy": [
+    "Learn the APIs, data pipeline, training or inference flow, and debugging methods for SciPy.",
+    "Use SciPy to implement one reproducible experiment or mini application."
+  ],
+  "ONNX": [
+    "Learn the APIs, data pipeline, training or inference flow, and debugging methods for ONNX.",
+    "Use ONNX to implement one reproducible experiment or mini application."
+  ],
+  "ONNX Runtime": [
+    "Learn the APIs, data pipeline, training or inference flow, and debugging methods for ONNX Runtime.",
+    "Use ONNX Runtime to implement one reproducible experiment or mini application."
+  ],
+  "Hugging Face Transformers": [
+    "Learn the APIs, data pipeline, training or inference flow, and debugging methods for Hugging Face Transformers.",
+    "Use Hugging Face Transformers to implement one reproducible experiment or mini application."
+  ],
+  "Transformers": [
+    "Learn the APIs, data pipeline, training or inference flow, and debugging methods for Transformers.",
+    "Use Transformers to implement one reproducible experiment or mini application."
+  ],
+  "Sentence Transformers": [
+    "Learn the APIs, data pipeline, training or inference flow, and debugging methods for Sentence Transformers.",
+    "Use Sentence Transformers to implement one reproducible experiment or mini application."
+  ],
+  "spaCy": [
+    "Learn the APIs, data pipeline, training or inference flow, and debugging methods for spaCy.",
+    "Use spaCy to implement one reproducible experiment or mini application."
+  ],
+  "NLTK": [
+    "Learn the APIs, data pipeline, training or inference flow, and debugging methods for NLTK.",
+    "Use NLTK to implement one reproducible experiment or mini application."
+  ],
+  "OpenMMLab": [
+    "Learn the APIs, data pipeline, training or inference flow, and debugging methods for OpenMMLab.",
+    "Use OpenMMLab to implement one reproducible experiment or mini application."
+  ],
+  "Ultralytics": [
+    "Learn the APIs, data pipeline, training or inference flow, and debugging methods for Ultralytics.",
+    "Use Ultralytics to implement one reproducible experiment or mini application."
+  ],
+  "YOLO": [
+    "Learn object detection pipeline, labeling, training, inference, and evaluation metrics.",
+    "Train or fine-tune a small detector and integrate it into a real application."
+  ],
+  "YOLOv5": [
+    "Learn the APIs, data pipeline, training or inference flow, and debugging methods for YOLOv5.",
+    "Use YOLOv5 to implement one reproducible experiment or mini application."
+  ],
+  "YOLOv8": [
+    "Learn the APIs, data pipeline, training or inference flow, and debugging methods for YOLOv8.",
+    "Use YOLOv8 to implement one reproducible experiment or mini application."
+  ],
+  "YOLOv11": [
+    "Learn the APIs, data pipeline, training or inference flow, and debugging methods for YOLOv11.",
+    "Use YOLOv11 to implement one reproducible experiment or mini application."
+  ],
+  "Large Language Models": [
+    "Learn the core concepts, pipeline structure, and common failure modes of Large Language Models.",
+    "Build a small LLM feature using Large Language Models and evaluate quality, latency, and reliability."
+  ],
+  "LLM": [
+    "Learn transformer basics, inference flow, prompting, retrieval augmentation, and safety considerations.",
+    "Build one LLM application and evaluate latency, quality, and failure cases."
+  ],
+  "Prompt Engineering": [
+    "Learn instruction design, context formatting, constraints, examples, and evaluation.",
+    "Iterate on prompts for one LLM feature and compare output quality systematically."
+  ],
+  "Prompt Design": [
+    "Learn the core concepts, pipeline structure, and common failure modes of Prompt Design.",
+    "Build a small LLM feature using Prompt Design and evaluate quality, latency, and reliability."
+  ],
+  "RAG": [
+    "Understand document loading, chunking, embedding, retrieval, reranking, and answer synthesis.",
+    "Start with a small local corpus, then add source attribution and evaluation."
+  ],
+  "Retrieval-Augmented Generation": [
+    "Learn the core concepts, pipeline structure, and common failure modes of Retrieval-Augmented Generation.",
+    "Build a small LLM feature using Retrieval-Augmented Generation and evaluate quality, latency, and reliability."
+  ],
+  "Embeddings": [
+    "Learn the core concepts, pipeline structure, and common failure modes of Embeddings.",
+    "Build a small LLM feature using Embeddings and evaluate quality, latency, and reliability."
+  ],
+  "Vector Database": [
+    "Learn embeddings, similarity search, metadata filtering, and index trade-offs.",
+    "Build a small semantic search or RAG demo and compare retrieval quality."
+  ],
+  "Vector Search": [
+    "Learn the core concepts, pipeline structure, and common failure modes of Vector Search.",
+    "Build a small LLM feature using Vector Search and evaluate quality, latency, and reliability."
+  ],
+  "Semantic Search": [
+    "Learn the core concepts, pipeline structure, and common failure modes of Semantic Search.",
+    "Build a small LLM feature using Semantic Search and evaluate quality, latency, and reliability."
+  ],
+  "FAISS": [
+    "Learn vector indexing basics, similarity search, persistence, and retrieval tuning.",
+    "Use FAISS in a local RAG pipeline and test top-k plus chunk strategies."
+  ],
+  "Chroma": [
+    "Learn the core concepts, pipeline structure, and common failure modes of Chroma.",
+    "Build a small LLM feature using Chroma and evaluate quality, latency, and reliability."
+  ],
+  "Pinecone": [
+    "Learn the core concepts, pipeline structure, and common failure modes of Pinecone.",
+    "Build a small LLM feature using Pinecone and evaluate quality, latency, and reliability."
+  ],
+  "Milvus": [
+    "Learn the core concepts, pipeline structure, and common failure modes of Milvus.",
+    "Build a small LLM feature using Milvus and evaluate quality, latency, and reliability."
+  ],
+  "Weaviate": [
+    "Learn the core concepts, pipeline structure, and common failure modes of Weaviate.",
+    "Build a small LLM feature using Weaviate and evaluate quality, latency, and reliability."
+  ],
+  "LangChain": [
+    "Learn document loaders, text splitters, retrievers, chains, and prompt workflows.",
+    "Build one small RAG application and document the retrieval pipeline clearly."
+  ],
+  "LlamaIndex": [
+    "Learn the core concepts, pipeline structure, and common failure modes of LlamaIndex.",
+    "Build a small LLM feature using LlamaIndex and evaluate quality, latency, and reliability."
+  ],
+  "Agent Systems": [
+    "Learn the core concepts, pipeline structure, and common failure modes of Agent Systems.",
+    "Build a small LLM feature using Agent Systems and evaluate quality, latency, and reliability."
+  ],
+  "AI Agents": [
+    "Learn the core concepts, pipeline structure, and common failure modes of AI Agents.",
+    "Build a small LLM feature using AI Agents and evaluate quality, latency, and reliability."
+  ],
+  "Autogen": [
+    "Learn the core concepts, pipeline structure, and common failure modes of Autogen.",
+    "Build a small LLM feature using Autogen and evaluate quality, latency, and reliability."
+  ],
+  "MCP": [
+    "Learn the core concepts, pipeline structure, and common failure modes of MCP.",
+    "Build a small LLM feature using MCP and evaluate quality, latency, and reliability."
+  ],
+  "Model Context Protocol": [
+    "Learn the core concepts, pipeline structure, and common failure modes of Model Context Protocol.",
+    "Build a small LLM feature using Model Context Protocol and evaluate quality, latency, and reliability."
+  ],
+  "Tool Calling": [
+    "Learn the core concepts, pipeline structure, and common failure modes of Tool Calling.",
+    "Build a small LLM feature using Tool Calling and evaluate quality, latency, and reliability."
+  ],
+  "Function Calling": [
+    "Learn the core concepts, pipeline structure, and common failure modes of Function Calling.",
+    "Build a small LLM feature using Function Calling and evaluate quality, latency, and reliability."
+  ],
+  "Fine-tuning": [
+    "Understand datasets, tokenization, training objectives, evaluation, and overfitting risks.",
+    "Fine-tune a small model or adapter and record before/after performance."
+  ],
+  "LoRA": [
+    "Learn the core concepts, pipeline structure, and common failure modes of LoRA.",
+    "Build a small LLM feature using LoRA and evaluate quality, latency, and reliability."
+  ],
+  "QLoRA": [
+    "Learn the core concepts, pipeline structure, and common failure modes of QLoRA.",
+    "Build a small LLM feature using QLoRA and evaluate quality, latency, and reliability."
+  ],
+  "Model Deployment": [
+    "Learn the core concepts, pipeline structure, and common failure modes of Model Deployment.",
+    "Build a small LLM feature using Model Deployment and evaluate quality, latency, and reliability."
+  ],
+  "Inference Serving": [
+    "Learn the core concepts, pipeline structure, and common failure modes of Inference Serving.",
+    "Build a small LLM feature using Inference Serving and evaluate quality, latency, and reliability."
+  ],
+  "ETL": [
+    "Learn extraction, transformation, loading, schema consistency, and pipeline monitoring.",
+    "Build a small ETL workflow that moves raw data into an analytics-ready format."
+  ],
+  "ELT": [
+    "Learn practical data workflow concepts, tooling, and quality checks related to ELT.",
+    "Build a mini data pipeline or analysis task using ELT and document the process."
+  ],
+  "Data Pipeline": [
+    "Learn practical data workflow concepts, tooling, and quality checks related to Data Pipeline.",
+    "Build a mini data pipeline or analysis task using Data Pipeline and document the process."
+  ],
+  "Data Engineering": [
+    "Learn practical data workflow concepts, tooling, and quality checks related to Data Engineering.",
+    "Build a mini data pipeline or analysis task using Data Engineering and document the process."
+  ],
+  "Apache Spark": [
+    "Learn practical data workflow concepts, tooling, and quality checks related to Apache Spark.",
+    "Build a mini data pipeline or analysis task using Apache Spark and document the process."
+  ],
+  "Hadoop": [
+    "Learn practical data workflow concepts, tooling, and quality checks related to Hadoop.",
+    "Build a mini data pipeline or analysis task using Hadoop and document the process."
+  ],
+  "Airflow": [
+    "Learn practical data workflow concepts, tooling, and quality checks related to Airflow.",
+    "Build a mini data pipeline or analysis task using Airflow and document the process."
+  ],
+  "Kafka": [
+    "Learn practical data workflow concepts, tooling, and quality checks related to Kafka.",
+    "Build a mini data pipeline or analysis task using Kafka and document the process."
+  ],
+  "Stream Processing": [
+    "Learn practical data workflow concepts, tooling, and quality checks related to Stream Processing.",
+    "Build a mini data pipeline or analysis task using Stream Processing and document the process."
+  ],
+  "Batch Processing": [
+    "Learn practical data workflow concepts, tooling, and quality checks related to Batch Processing.",
+    "Build a mini data pipeline or analysis task using Batch Processing and document the process."
+  ],
+  "Data Warehousing": [
+    "Learn practical data workflow concepts, tooling, and quality checks related to Data Warehousing.",
+    "Build a mini data pipeline or analysis task using Data Warehousing and document the process."
+  ],
+  "Data Modeling": [
+    "Learn practical data workflow concepts, tooling, and quality checks related to Data Modeling.",
+    "Build a mini data pipeline or analysis task using Data Modeling and document the process."
+  ],
+  "Parquet": [
+    "Learn practical data workflow concepts, tooling, and quality checks related to Parquet.",
+    "Build a mini data pipeline or analysis task using Parquet and document the process."
+  ],
+  "CSV Processing": [
+    "Learn practical data workflow concepts, tooling, and quality checks related to CSV Processing.",
+    "Build a mini data pipeline or analysis task using CSV Processing and document the process."
+  ],
+  "JSON Processing": [
+    "Learn practical data workflow concepts, tooling, and quality checks related to JSON Processing.",
+    "Build a mini data pipeline or analysis task using JSON Processing and document the process."
+  ],
+  "Object-Oriented Programming": [
+    "Understand design principles, implementation trade-offs, and real usage patterns of Object-Oriented Programming.",
+    "Apply Object-Oriented Programming in a real codebase and improve maintainability, testing, or structure."
+  ],
+  "OOP": [
+    "Practice classes, inheritance, composition, encapsulation, and design trade-offs.",
+    "Refactor one procedural project into a clean object-oriented structure."
+  ],
+  "Design Patterns": [
+    "Understand design principles, implementation trade-offs, and real usage patterns of Design Patterns.",
+    "Apply Design Patterns in a real codebase and improve maintainability, testing, or structure."
+  ],
+  "Software Engineering": [
+    "Learn modular design, testing, version control, documentation, and maintainability.",
+    "Apply clean architecture and code review discipline in a real project."
+  ],
+  "System Design": [
+    "Learn scalability, load balancing, databases, caching, queues, and trade-off analysis.",
+    "Study a few common architectures and design one medium-scale application end to end."
+  ],
+  "Distributed Systems": [
+    "Understand design principles, implementation trade-offs, and real usage patterns of Distributed Systems.",
+    "Apply Distributed Systems in a real codebase and improve maintainability, testing, or structure."
+  ],
+  "Concurrency": [
+    "Understand design principles, implementation trade-offs, and real usage patterns of Concurrency.",
+    "Apply Concurrency in a real codebase and improve maintainability, testing, or structure."
+  ],
+  "Multithreading": [
+    "Understand design principles, implementation trade-offs, and real usage patterns of Multithreading.",
+    "Apply Multithreading in a real codebase and improve maintainability, testing, or structure."
+  ],
+  "Asynchronous Programming": [
+    "Understand design principles, implementation trade-offs, and real usage patterns of Asynchronous Programming.",
+    "Apply Asynchronous Programming in a real codebase and improve maintainability, testing, or structure."
+  ],
+  "AsyncIO": [
+    "Understand design principles, implementation trade-offs, and real usage patterns of AsyncIO.",
+    "Apply AsyncIO in a real codebase and improve maintainability, testing, or structure."
+  ],
+  "Testing": [
+    "Understand design principles, implementation trade-offs, and real usage patterns of Testing.",
+    "Apply Testing in a real codebase and improve maintainability, testing, or structure."
+  ],
+  "Unit Testing": [
+    "Learn test isolation, assertions, mocking, fixtures, and coverage basics.",
+    "Add tests to an existing project and use failing tests to drive bug fixes."
+  ],
+  "Integration Testing": [
+    "Understand design principles, implementation trade-offs, and real usage patterns of Integration Testing.",
+    "Apply Integration Testing in a real codebase and improve maintainability, testing, or structure."
+  ],
+  "Functional Testing": [
+    "Understand design principles, implementation trade-offs, and real usage patterns of Functional Testing.",
+    "Apply Functional Testing in a real codebase and improve maintainability, testing, or structure."
+  ],
+  "Debugging": [
+    "Learn logging, breakpoints, stack traces, hypothesis-driven debugging, and root cause analysis.",
+    "Practice debugging 5 to 10 real errors and write down the failure patterns."
+  ],
+  "Troubleshooting": [
+    "Understand design principles, implementation trade-offs, and real usage patterns of Troubleshooting.",
+    "Apply Troubleshooting in a real codebase and improve maintainability, testing, or structure."
+  ],
+  "Code Review": [
+    "Understand design principles, implementation trade-offs, and real usage patterns of Code Review.",
+    "Apply Code Review in a real codebase and improve maintainability, testing, or structure."
+  ],
+  "Documentation": [
+    "Learn README structure, API documentation, architecture notes, and change logs.",
+    "Document one full project so another person can install, run, and extend it."
+  ],
+  "Agile Development": [
+    "Understand design principles, implementation trade-offs, and real usage patterns of Agile Development.",
+    "Apply Agile Development in a real codebase and improve maintainability, testing, or structure."
+  ],
+  "Scrum": [
+    "Understand design principles, implementation trade-offs, and real usage patterns of Scrum.",
+    "Apply Scrum in a real codebase and improve maintainability, testing, or structure."
+  ],
+  "Refactoring": [
+    "Understand design principles, implementation trade-offs, and real usage patterns of Refactoring.",
+    "Apply Refactoring in a real codebase and improve maintainability, testing, or structure."
+  ],
+  "Performance Optimization": [
+    "Understand design principles, implementation trade-offs, and real usage patterns of Performance Optimization.",
+    "Apply Performance Optimization in a real codebase and improve maintainability, testing, or structure."
+  ],
+  "Clean Code": [
+    "Understand design principles, implementation trade-offs, and real usage patterns of Clean Code.",
+    "Apply Clean Code in a real codebase and improve maintainability, testing, or structure."
+  ],
+  "Network Security": [
+    "Learn the key concepts, risks, and implementation basics related to Network Security.",
+    "Practice Network Security through a lab, small network setup, or security-focused exercise."
+  ],
+  "Cybersecurity": [
+    "Learn the key concepts, risks, and implementation basics related to Cybersecurity.",
+    "Practice Cybersecurity through a lab, small network setup, or security-focused exercise."
+  ],
+  "Data Communication": [
+    "Learn the key concepts, risks, and implementation basics related to Data Communication.",
+    "Practice Data Communication through a lab, small network setup, or security-focused exercise."
+  ],
+  "Computer Networks": [
+    "Learn the key concepts, risks, and implementation basics related to Computer Networks.",
+    "Practice Computer Networks through a lab, small network setup, or security-focused exercise."
+  ],
+  "TCP/IP": [
+    "Learn the key concepts, risks, and implementation basics related to TCP/IP.",
+    "Practice TCP/IP through a lab, small network setup, or security-focused exercise."
+  ],
+  "UDP": [
+    "Learn the key concepts, risks, and implementation basics related to UDP.",
+    "Practice UDP through a lab, small network setup, or security-focused exercise."
+  ],
+  "HTTP": [
+    "Learn the key concepts, risks, and implementation basics related to HTTP.",
+    "Practice HTTP through a lab, small network setup, or security-focused exercise."
+  ],
+  "HTTPS": [
+    "Learn the key concepts, risks, and implementation basics related to HTTPS.",
+    "Practice HTTPS through a lab, small network setup, or security-focused exercise."
+  ],
+  "SSL/TLS": [
+    "Learn the key concepts, risks, and implementation basics related to SSL/TLS.",
+    "Practice SSL/TLS through a lab, small network setup, or security-focused exercise."
+  ],
+  "Encryption": [
+    "Learn the key concepts, risks, and implementation basics related to Encryption.",
+    "Practice Encryption through a lab, small network setup, or security-focused exercise."
+  ],
+  "Firewall": [
+    "Learn the key concepts, risks, and implementation basics related to Firewall.",
+    "Practice Firewall through a lab, small network setup, or security-focused exercise."
+  ],
+  "Penetration Testing": [
+    "Learn the key concepts, risks, and implementation basics related to Penetration Testing.",
+    "Practice Penetration Testing through a lab, small network setup, or security-focused exercise."
+  ],
+  "Secure Coding": [
+    "Learn the key concepts, risks, and implementation basics related to Secure Coding.",
+    "Practice Secure Coding through a lab, small network setup, or security-focused exercise."
+  ],
+  "Embedded Systems": [
+    "Learn microcontrollers, GPIO, interrupts, serial communication, timing, and hardware constraints.",
+    "Build one microcontroller project that reads sensors and controls actuators."
+  ],
+  "ESP32": [
+    "Learn pin mapping, Wi-Fi/Bluetooth basics, serial debugging, and peripheral integration.",
+    "Build a connected device project with sensors, networking, and control logic."
+  ],
+  "Arduino": [
+    "Learn digital/analog I/O, libraries, serial communication, timing, and hardware debugging.",
+    "Build a small sensor-actuator project and document the wiring plus firmware flow."
+  ],
+  "Raspberry Pi": [
+    "Learn hardware, firmware, communication, and practical integration concepts related to Raspberry Pi.",
+    "Build a small IoT or embedded feature using Raspberry Pi and validate the full workflow."
+  ],
+  "Microcontrollers": [
+    "Learn hardware, firmware, communication, and practical integration concepts related to Microcontrollers.",
+    "Build a small IoT or embedded feature using Microcontrollers and validate the full workflow."
+  ],
+  "IoT": [
+    "Learn hardware, firmware, communication, and practical integration concepts related to IoT.",
+    "Build a small IoT or embedded feature using IoT and validate the full workflow."
+  ],
+  "Robotics": [
+    "Learn kinematics basics, control flow, sensors, actuators, and safety constraints.",
+    "Build a small robotic application and test motion control plus feedback loops."
+  ],
+  "Robotic Arm Control": [
+    "Learn hardware, firmware, communication, and practical integration concepts related to Robotic Arm Control.",
+    "Build a small IoT or embedded feature using Robotic Arm Control and validate the full workflow."
+  ],
+  "Motion Control": [
+    "Learn hardware, firmware, communication, and practical integration concepts related to Motion Control.",
+    "Build a small IoT or embedded feature using Motion Control and validate the full workflow."
+  ],
+  "Stepper Motor Control": [
+    "Learn hardware, firmware, communication, and practical integration concepts related to Stepper Motor Control.",
+    "Build a small IoT or embedded feature using Stepper Motor Control and validate the full workflow."
+  ],
+  "Motor Control": [
+    "Learn hardware, firmware, communication, and practical integration concepts related to Motor Control.",
+    "Build a small IoT or embedded feature using Motor Control and validate the full workflow."
+  ],
+  "PLC": [
+    "Learn hardware, firmware, communication, and practical integration concepts related to PLC.",
+    "Build a small IoT or embedded feature using PLC and validate the full workflow."
+  ],
+  "Sensor Integration": [
+    "Learn hardware, firmware, communication, and practical integration concepts related to Sensor Integration.",
+    "Build a small IoT or embedded feature using Sensor Integration and validate the full workflow."
+  ],
+  "Hardware Integration": [
+    "Learn signal flow, interfaces, power considerations, wiring discipline, and integration testing.",
+    "Integrate at least two hardware modules and validate the full end-to-end system."
+  ],
+  "Circuit Design": [
+    "Learn hardware, firmware, communication, and practical integration concepts related to Circuit Design.",
+    "Build a small IoT or embedded feature using Circuit Design and validate the full workflow."
+  ],
+  "Serial Communication": [
+    "Learn hardware, firmware, communication, and practical integration concepts related to Serial Communication.",
+    "Build a small IoT or embedded feature using Serial Communication and validate the full workflow."
+  ],
+  "UART": [
+    "Learn hardware, firmware, communication, and practical integration concepts related to UART.",
+    "Build a small IoT or embedded feature using UART and validate the full workflow."
+  ],
+  "I2C": [
+    "Learn hardware, firmware, communication, and practical integration concepts related to I2C.",
+    "Build a small IoT or embedded feature using I2C and validate the full workflow."
+  ],
+  "SPI": [
+    "Learn hardware, firmware, communication, and practical integration concepts related to SPI.",
+    "Build a small IoT or embedded feature using SPI and validate the full workflow."
+  ],
+  "MQTT": [
+    "Learn hardware, firmware, communication, and practical integration concepts related to MQTT.",
+    "Build a small IoT or embedded feature using MQTT and validate the full workflow."
+  ],
+  "UDP Communication": [
+    "Learn hardware, firmware, communication, and practical integration concepts related to UDP Communication.",
+    "Build a small IoT or embedded feature using UDP Communication and validate the full workflow."
+  ],
+  "Computer Vision Integration": [
+    "Learn hardware, firmware, communication, and practical integration concepts related to Computer Vision Integration.",
+    "Build a small IoT or embedded feature using Computer Vision Integration and validate the full workflow."
+  ],
+  "Control Systems": [
+    "Learn hardware, firmware, communication, and practical integration concepts related to Control Systems.",
+    "Build a small IoT or embedded feature using Control Systems and validate the full workflow."
+  ],
+  "Real-Time Systems": [
+    "Learn hardware, firmware, communication, and practical integration concepts related to Real-Time Systems.",
+    "Build a small IoT or embedded feature using Real-Time Systems and validate the full workflow."
+  ],
+  "Firmware Development": [
+    "Learn hardware, firmware, communication, and practical integration concepts related to Firmware Development.",
+    "Build a small IoT or embedded feature using Firmware Development and validate the full workflow."
+  ],
+  "Image Processing": [
+    "Learn the perception, control, evaluation, and integration basics behind Image Processing.",
+    "Build a small vision or robotics prototype using Image Processing and document the test results."
+  ],
+  "Object Detection": [
+    "Learn the perception, control, evaluation, and integration basics behind Object Detection.",
+    "Build a small vision or robotics prototype using Object Detection and document the test results."
+  ],
+  "Object Tracking": [
+    "Learn the perception, control, evaluation, and integration basics behind Object Tracking.",
+    "Build a small vision or robotics prototype using Object Tracking and document the test results."
+  ],
+  "Face Detection": [
+    "Learn the perception, control, evaluation, and integration basics behind Face Detection.",
+    "Build a small vision or robotics prototype using Face Detection and document the test results."
+  ],
+  "Face Tracking": [
+    "Learn the perception, control, evaluation, and integration basics behind Face Tracking.",
+    "Build a small vision or robotics prototype using Face Tracking and document the test results."
+  ],
+  "Pose Estimation": [
+    "Learn the perception, control, evaluation, and integration basics behind Pose Estimation.",
+    "Build a small vision or robotics prototype using Pose Estimation and document the test results."
+  ],
+  "Visual Servoing": [
+    "Learn the perception, control, evaluation, and integration basics behind Visual Servoing.",
+    "Build a small vision or robotics prototype using Visual Servoing and document the test results."
+  ],
+  "YOLO Deployment": [
+    "Learn the perception, control, evaluation, and integration basics behind YOLO Deployment.",
+    "Build a small vision or robotics prototype using YOLO Deployment and document the test results."
+  ],
+  "OpenCV Integration": [
+    "Learn the perception, control, evaluation, and integration basics behind OpenCV Integration.",
+    "Build a small vision or robotics prototype using OpenCV Integration and document the test results."
+  ],
+  "Camera Calibration": [
+    "Learn the perception, control, evaluation, and integration basics behind Camera Calibration.",
+    "Build a small vision or robotics prototype using Camera Calibration and document the test results."
+  ],
+  "Target Localization": [
+    "Learn the perception, control, evaluation, and integration basics behind Target Localization.",
+    "Build a small vision or robotics prototype using Target Localization and document the test results."
+  ],
+  "Robotics Integration": [
+    "Learn the perception, control, evaluation, and integration basics behind Robotics Integration.",
+    "Build a small vision or robotics prototype using Robotics Integration and document the test results."
+  ],
+  "System Debugging": [
+    "Learn the perception, control, evaluation, and integration basics behind System Debugging.",
+    "Build a small vision or robotics prototype using System Debugging and document the test results."
+  ],
+  "Android Development": [
+    "Learn platform-specific development patterns, tooling, and deployment basics for Android Development.",
+    "Build a small application feature using Android Development and test it on the target platform."
+  ],
+  "iOS Development": [
+    "Learn platform-specific development patterns, tooling, and deployment basics for iOS Development.",
+    "Build a small application feature using iOS Development and test it on the target platform."
+  ],
+  "Flutter": [
+    "Learn platform-specific development patterns, tooling, and deployment basics for Flutter.",
+    "Build a small application feature using Flutter and test it on the target platform."
+  ],
+  "React Native": [
+    "Learn platform-specific development patterns, tooling, and deployment basics for React Native.",
+    "Build a small application feature using React Native and test it on the target platform."
+  ],
+  "Desktop Development": [
+    "Learn platform-specific development patterns, tooling, and deployment basics for Desktop Development.",
+    "Build a small application feature using Desktop Development and test it on the target platform."
+  ],
+  "Tkinter": [
+    "Learn platform-specific development patterns, tooling, and deployment basics for Tkinter.",
+    "Build a small application feature using Tkinter and test it on the target platform."
+  ],
+  "PyQt": [
+    "Learn platform-specific development patterns, tooling, and deployment basics for PyQt.",
+    "Build a small application feature using PyQt and test it on the target platform."
+  ],
+  "Electron": [
+    "Learn platform-specific development patterns, tooling, and deployment basics for Electron.",
+    "Build a small application feature using Electron and test it on the target platform."
+  ],
+  "Linear Algebra": [
+    "Review the mathematical definitions, intuition, and practical use cases of Linear Algebra.",
+    "Solve exercises and apply Linear Algebra in one engineering or data project."
+  ],
+  "Calculus": [
+    "Review the mathematical definitions, intuition, and practical use cases of Calculus.",
+    "Solve exercises and apply Calculus in one engineering or data project."
+  ],
+  "Probability": [
+    "Review the mathematical definitions, intuition, and practical use cases of Probability.",
+    "Solve exercises and apply Probability in one engineering or data project."
+  ],
+  "Statistics": [
+    "Review the mathematical definitions, intuition, and practical use cases of Statistics.",
+    "Solve exercises and apply Statistics in one engineering or data project."
+  ],
+  "Applied Statistics": [
+    "Review the mathematical definitions, intuition, and practical use cases of Applied Statistics.",
+    "Solve exercises and apply Applied Statistics in one engineering or data project."
+  ],
+  "Discrete Mathematics": [
+    "Review the mathematical definitions, intuition, and practical use cases of Discrete Mathematics.",
+    "Solve exercises and apply Discrete Mathematics in one engineering or data project."
+  ],
+  "Optimization": [
+    "Review the mathematical definitions, intuition, and practical use cases of Optimization.",
+    "Solve exercises and apply Optimization in one engineering or data project."
+  ],
+  "Numerical Methods": [
+    "Review the mathematical definitions, intuition, and practical use cases of Numerical Methods.",
+    "Solve exercises and apply Numerical Methods in one engineering or data project."
+  ],
+  "AI Product Development": [
+    "Study typical workflows, tools, and evaluation criteria in AI Product Development.",
+    "Complete one domain-specific mini project to turn theory into practical experience."
+  ],
+  "AI Application Development": [
+    "Study typical workflows, tools, and evaluation criteria in AI Application Development.",
+    "Complete one domain-specific mini project to turn theory into practical experience."
+  ],
+  "Intelligent Applications": [
+    "Study typical workflows, tools, and evaluation criteria in Intelligent Applications.",
+    "Complete one domain-specific mini project to turn theory into practical experience."
+  ],
+  "Large Model Deployment": [
+    "Study typical workflows, tools, and evaluation criteria in Large Model Deployment.",
+    "Complete one domain-specific mini project to turn theory into practical experience."
+  ],
+  "Model Fine-tuning": [
+    "Study typical workflows, tools, and evaluation criteria in Model Fine-tuning.",
+    "Complete one domain-specific mini project to turn theory into practical experience."
+  ],
+  "Spam Detection": [
+    "Study typical workflows, tools, and evaluation criteria in Spam Detection.",
+    "Complete one domain-specific mini project to turn theory into practical experience."
+  ],
+  "Recommendation Systems": [
+    "Study typical workflows, tools, and evaluation criteria in Recommendation Systems.",
+    "Complete one domain-specific mini project to turn theory into practical experience."
+  ],
+  "Search Systems": [
+    "Study typical workflows, tools, and evaluation criteria in Search Systems.",
+    "Complete one domain-specific mini project to turn theory into practical experience."
+  ],
+  "Chatbot Development": [
+    "Study typical workflows, tools, and evaluation criteria in Chatbot Development.",
+    "Complete one domain-specific mini project to turn theory into practical experience."
+  ],
+  "Resume Parsing": [
+    "Study typical workflows, tools, and evaluation criteria in Resume Parsing.",
+    "Complete one domain-specific mini project to turn theory into practical experience."
+  ],
+  "Skill Matching": [
+    "Study typical workflows, tools, and evaluation criteria in Skill Matching.",
+    "Complete one domain-specific mini project to turn theory into practical experience."
+  ],
+  "Knowledge Base Q&A": [
+    "Study typical workflows, tools, and evaluation criteria in Knowledge Base Q&A.",
+    "Complete one domain-specific mini project to turn theory into practical experience."
+  ],
+  "Data Visualization": [
+    "Study typical workflows, tools, and evaluation criteria in Data Visualization.",
+    "Complete one domain-specific mini project to turn theory into practical experience."
+  ],
+  "Booking System Development": [
+    "Study typical workflows, tools, and evaluation criteria in Booking System Development.",
+    "Complete one domain-specific mini project to turn theory into practical experience."
+  ],
+  "E-commerce Development": [
+    "Study typical workflows, tools, and evaluation criteria in E-commerce Development.",
+    "Complete one domain-specific mini project to turn theory into practical experience."
+  ],
+  "Problem Solving": [
+    "Practice structured decomposition, hypothesis testing, and prioritizing bottlenecks.",
+    "Solve debugging and design problems while documenting your reasoning process."
+  ],
+  "Logical Thinking": [
+    "Improve Logical Thinking through deliberate practice, feedback, and reflection after each project task.",
+    "Show Logical Thinking in real teamwork or project delivery scenarios and record concrete examples."
+  ],
+  "Analytical Thinking": [
+    "Improve Analytical Thinking through deliberate practice, feedback, and reflection after each project task.",
+    "Show Analytical Thinking in real teamwork or project delivery scenarios and record concrete examples."
+  ],
+  "Communication": [
+    "Practice writing technical summaries, API docs, and concise progress updates.",
+    "Present your project decisions clearly to both technical and non-technical audiences."
+  ],
+  "Teamwork": [
+    "Practice collaboration, code reviews, task tracking, and ownership handoff.",
+    "Work in a shared repository and document responsibilities plus integration points."
+  ],
+  "Collaboration": [
+    "Improve Collaboration through deliberate practice, feedback, and reflection after each project task.",
+    "Show Collaboration in real teamwork or project delivery scenarios and record concrete examples."
+  ],
+  "Learning Ability": [
+    "Improve Learning Ability through deliberate practice, feedback, and reflection after each project task.",
+    "Show Learning Ability in real teamwork or project delivery scenarios and record concrete examples."
+  ],
+  "Self-learning": [
+    "Improve Self-learning through deliberate practice, feedback, and reflection after each project task.",
+    "Show Self-learning in real teamwork or project delivery scenarios and record concrete examples."
+  ],
+  "Time Management": [
+    "Improve Time Management through deliberate practice, feedback, and reflection after each project task.",
+    "Show Time Management in real teamwork or project delivery scenarios and record concrete examples."
+  ],
+  "Attention to Detail": [
+    "Improve Attention to Detail through deliberate practice, feedback, and reflection after each project task.",
+    "Show Attention to Detail in real teamwork or project delivery scenarios and record concrete examples."
+  ],
+  "Ownership": [
+    "Improve Ownership through deliberate practice, feedback, and reflection after each project task.",
+    "Show Ownership in real teamwork or project delivery scenarios and record concrete examples."
+  ],
+  "Resilience": [
+    "Improve Resilience through deliberate practice, feedback, and reflection after each project task.",
+    "Show Resilience in real teamwork or project delivery scenarios and record concrete examples."
+  ],
+  "Documentation Writing": [
+    "Improve Documentation Writing through deliberate practice, feedback, and reflection after each project task.",
+    "Show Documentation Writing in real teamwork or project delivery scenarios and record concrete examples."
+  ]
+}

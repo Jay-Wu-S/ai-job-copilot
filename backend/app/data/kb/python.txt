@@ -1,0 +1,2 @@
+Python is a general-purpose programming language widely used in backend development, automation, data analysis, and AI applications.
+In AI engineering projects, Python is commonly used with FastAPI, TensorFlow, LangChain, and data processing libraries.
